@@ -10,6 +10,7 @@ from sendGPTSummaryRequest import createOpenAiRequest
 
 import os
 import re
+import json
 
 def checkIfProcessedDirExists(target_directory,root,save_directory):
     if(os.path.isdir(f"{target_directory}/{root}")):
@@ -67,40 +68,50 @@ def trasformStringToQuestions(target_directory,save_directory):
         if os.path.isfile(dateipfad):
             try:
                 print(f"Öffne Datei: {dateiname}")
+                with open (dateipfad, 'r', encoding="utf-8") as json_file:
+                    data = json.load(json_file)
+                    if "questions" in data and isinstance(data["questions"],list):
+                        new_data = []
 
-                with open(dateipfad, "r+") as datei:
-                    for zeile in datei:
-                        if "BEARBEITET" not in zeile:
-                            print("Übergebe Zeile")
-                            ausgangs_zeile = zeile
-                            original_zeile = zeile.strip()
-                            info_match = re.search(r"TEXTSTART:\s*(.*?)TEXTEND", original_zeile)
-                            
-                            if info_match:
-                                info = info_match.group(1)
-                                # API-Request oder Verarbeitung
-                                questions = createOpenAiRequest(f"Erstelle 3 singlechoice und 3 multiplechoice antworten auf basis dieser Daten wenn es sinn ergibt{info}")  # Annahme: Funktion existiert
-                                print("Wieso kommt er hier nicht an?")
-                                # Neue Zeile erstellen
-                                neue_zeile = ausgangs_zeile.replace(info, questions).strip() + " BEARBEITET"
+                        try:
+                            for obj in data["questions"]:
+                                if obj.get("verarbeitet",False) == False:
+                                    api_response = "Ich bin die Antwort auf deine Frage"
+                                    #Hier kommt dann eine Funktion die die API Response Verarbeitet
+                                    response_obj = {"frage":"Frage","antworten":["antwort1","antwort2"],"correctAnswers":[0], "extractedText":obj.get("extractedText"),"extractedPage":obj.get("extractedPage"),"extractedSession":obj.get("extractedSession"),"extractedPro":obj.get("extractedPro"),"extractedLecture":obj.get("extractedLecture"),"ectractLectureName":obj.get("ectractLectureName")}
+                                    new_data.append(response_obj)
+                                    obj["verarbeitet"] = True
+                                else:
+                                    print("Diese Folie wurde bereits bearbeitet")
 
-                                # In Antwortendatei speichern
-                                antwort_dateipfad = os.path.join(f"{save_directory}/", f"{dateiname}.txt")
-                                with open(antwort_dateipfad, "a", encoding="utf-8") as antwort_datei:
-                                    antwort_datei.write({f"{neue_zeile}"})
-
-                                # Geänderte Zeile in die Datei schreiben
-                                datei.write(neue_zeile)
+                        except Exception as e:
+                            print(f"Fehler augetreten: {e}")
+                        finally:
+                            with open(dateipfad, 'w', encoding='utf-8') as file:
+                                json.dump(data, file, ensure_ascii=False, indent=4)
+                            print("Daten wurden gespeichert")
+                            neuer_pfad = f"{save_directory}/{dateiname}"
+                            if not os.path.isfile(neuer_pfad):
+                                with open(neuer_pfad, 'w', encoding='utf-8') as json_file:
+                                    json.dump(new_data, json_file, ensure_ascii=False, indent=4)
                             else:
-                                print("Kein gültiges Muster gefunden.")
-                                datei.write(original_zeile + "\n")
-                        else:
-                            print("Zeile wurde bereits erfolgreich bearbeitet.")
-            except Exception as e:
-                print(f"Fehler beim Öffnen von {dateiname}: {e}")
-            finally:print("Datei wurde abgeschlossen.")
+                                with open(neuer_pfad, 'r', encoding='utf-8') as json_file:
+                                    existing_data = json.load(json_file)
+                                if isinstance(existing_data, list):
+                                    existing_data.extend(new_data)
+                                else:
+                                    print("Fehler: Erwartet ein JSON-Array.")
 
-    pass
+                                # Schreibe die aktualisierten Daten zurück in die Datei
+                                with open(neuer_pfad, 'w', encoding='utf-8') as json_file:
+                                    json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
+                                
+
+                    else:
+                        print("Die JSON Datei war im falschen Format")
+            except Exception as e:
+                print(f"Fehler beim bearbeiten von {dateipfad} , der Fehler ist {e}")
+            
 
 def main():
     #Step 1 -> löschen der irrelevanten Folien
@@ -109,13 +120,13 @@ def main():
     #reduceAllPDFs(target_directory,save_directory)
 
     #Step 2 -> extrahieren des Textes aus relevanten Folien
-    target_directory = "../03-FilteredData"
-    save_directory = "../04-FolieToString"
-    transformAllPDFs(target_directory,save_directory)
+    #target_directory = "../03-FilteredData"
+    #save_directory = "../04-FolieToString"
+    #transformAllPDFs(target_directory,save_directory)
 
-    #target_directory = "../04-FolieToString"
-    #save_directory = "../05-Antworten"
-    #trasformStringToQuestions(target_directory,save_directory)
+    target_directory = "../04-FolieToString"
+    save_directory = "../05-Antworten"
+    trasformStringToQuestions(target_directory,save_directory)
 
     """
     original_pdf = "../02-BasePDFs/Einführungsvorlesung Das Politische System Deutschlands/Sitzung_4_Legislative.pdf"

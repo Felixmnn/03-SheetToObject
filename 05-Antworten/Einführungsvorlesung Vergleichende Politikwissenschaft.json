@@ -1,0 +1,2818 @@
+[
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nLijpharts typologischer Ansatz: Die Unterscheidung von \nMehrheits- und Konsensdemokratien\nMehrheitsdemokratie\n§ Grundprinzip: \nMehrheitsherrschaft und \nregelmäßiger Wechsel der Macht \nzwischen Gruppen\n§ Konzentration von Macht\n§ Alternanz \n§ Voraussetzung: \nHomogene Gesellschaft\n§ Alternativbezeichnungen \n§ Westministerdemokratie\n§ Konkurrenzdemokratie\n§ Beispiele: UK, NZL (vor 1996)\nKonsensdemokratie\n§ Grundprinzip: \nHerrschaft von so vielen wie \nmöglich und kein Wechsel \nzwischen Gruppen\n§ Aufteilung von Macht\n§ Inklusion\n§ Voraussetzung: \nHeterogene Gesellschaft\n§ Alternativbezeichnungen\n§ Verhandlungsdemokratien\n§ Konkordanzdemokratien\n§ Beispiele: CH, BEL, D\n\n\n",
+        "extractedPage": "Seite 10",
+        "extractedSession": "Sitzung 10",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_10_Lijphart.pdf",
+        "ectractLectureName": "Sitzung_10_Lijphart.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nLijpharts Idee und Strategie (1)\n§ Ursprüngliche Idee\n§ Das Ausmaß von Mehrheits- und Konsensorientierung in politischen \nSystemen lässt sich graduell messen \n§ Es gibt verschiedene Variablen, die aber alle denselben unterliegenden \n(latenten, und somit nicht direkt messbaren) Charakter einer Demokratie \nentlang eines Konsens-Mehrheits-Kontinuums widerspiegeln\n\nMehrheitsorientierung\nKonsensorientierung\n\n",
+        "extractedPage": "Seite 11",
+        "extractedSession": "Sitzung 10",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_10_Lijphart.pdf",
+        "ectractLectureName": "Sitzung_10_Lijphart.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nLijpharts Fallauswahl und Wertezuordnung\n§ Er wählt Länder aus, die hinreichend lange demokratisch waren \n§ Er definiert 10 Variablen und illustriert an den Extrembeispielen \nihre unterschiedlichen Ausprägungsmöglichkeiten\n§ An diesen zeigt er die Idealtypen von Mehrheits- und \nKonsensdemokratie empirisch auf\n§ Er bestimmt für jede dieser Variablen die Werte aller 21 bzw. 36 \nLänder\n\n\n",
+        "extractedPage": "Seite 13",
+        "extractedSession": "Sitzung 10",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_10_Lijphart.pdf",
+        "ectractLectureName": "Sitzung_10_Lijphart.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nLijphart nutzt 10 Variablen, um den Charakter von \nMehrheits- und Konsensdemokratie zu erfassen\nErste Dimension: \nHorizontale Machtteilung\n1.\nEinparteienkabinette vs. \nKoalitionsregierungen\n2.\nExekutivdominanz vs. dominante \nLegislative\n3.\nZweiparteiensystem vs. \nMehrparteiensystem\n4.\nMehrheitswahlrecht vs. \nVerhältniswahlrecht\n5.\nPluralistische vs. korporatistische \nInteressenvertretung\nZweite Dimension: \nVertikale Machtteilung\n6.\nUnitarisch-zentralisiert vs. \nFöderal-dezentralisiert\n7.\nUnikameralismus vs. \nBikameralismus\n8.\nFlexible vs. Rigide Verfassungen\n9.\nKeine Normenkontrolle vs. \nNormenkontrolle durch \nVerfassungsgericht\n10. Abhängige vs. Unabhängige \nZentralbank\n\n\n",
+        "extractedPage": "Seite 14",
+        "extractedSession": "Sitzung 10",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_10_Lijphart.pdf",
+        "ectractLectureName": "Sitzung_10_Lijphart.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nOperationalisierung der Variablen bei Lijphart (1)\nErste Dimension: \nHorizontale Machtteilung\n1.\nEinparteienkabinette vs. \nKoalitionsregierungen\n2.\nExekutivdominanz vs. dominante \nLegislative\n3.\nZweiparteiensystem vs. \nMehrparteiensystem\n4.\nMehrheitswahlrecht vs. \nVerhältniswahlrecht\n5.\nPluralistische vs. korporatistische \nInteressenvertretung\nOperationalisierung: \nBestehende Indizes\n1.\nMittelwert Regierungsdauer \nMinimal-Winning Koalition und \nEinparteienkabinette\n2.\nDurchschnittliche Lebensdauer von \nKabinetten\n3.\nEffektive Parteienanzahl ENP\n4.\nGallagher-Index der elektoralen \nDisproportionalität\n5.\nKorporatismus-Index nach Siaroff\n\n\n",
+        "extractedPage": "Seite 15",
+        "extractedSession": "Sitzung 10",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_10_Lijphart.pdf",
+        "ectractLectureName": "Sitzung_10_Lijphart.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nOperationalisierung der Variablen bei Lijphart (2)\nZweite Dimension: \nVertikale Machtteilung\n6.\nUnitarisch-zentralisiert vs. Föderal-\ndezentralisiert\n7.\nUnikameralismus vs. \nBikameralismus\n8.\nFlexible vs. Rigide Verfassungen\n9.\nKeine Normenkontrolle vs. \nNormenkontrolle durch \nVerfassungsgericht\n10. Abhängige vs. Unabhängige \nZentralbank\nOperationalisierung:\nFrei gewählte Skalen\n6.\nSkala von 1 bis 4 (zentral \nunitarisch bis föderal und \ndezentral)\n7.\nSkala von 1 bis 4, (unikameral bis \nstark bikameral) \n8.\nSkala von 1 bis 4, (einfach, absolut, \nsuper, größer super)\n9.\nSkala von 1 bis 4, vergeben nach \nSekundärliteratur\n10. Grad Zentralbankautonomie \n(Indizies Cukierman, Grilli…) \n\n\n",
+        "extractedPage": "Seite 16",
+        "extractedSession": "Sitzung 10",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_10_Lijphart.pdf",
+        "ectractLectureName": "Sitzung_10_Lijphart.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nLijpharts zweidimensionale Karte von Demokratien\n§\nLijphart erhält aus der \nFaktoranalyse zwei Dimensionen \nmit je 5 Variablen, die hoch \nkorrelieren\n§\nDie beiden Dimensionen sind \nunabhängig voneinander\n§\nSämtliche Länder lassen sich auf \ndiesen zwei Dimensionen verorten \n(basierend auf den Werte für die \neinzelnen Länder als Ergebnis der \nPCA)\n§\nSie werden ex-post als horizontale \n(Exekutive-Parteien) und vertikale \n(Föderalismus-Unitarismus) \nDimensionen interpretiert\n\n\nLijphart 2012: 244\n",
+        "extractedPage": "Seite 20",
+        "extractedSession": "Sitzung 10",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_10_Lijphart.pdf",
+        "ectractLectureName": "Sitzung_10_Lijphart.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDie zweite Dimension ist asymmetrisch kausal\n\nVerfassung(srigidität)\nVerfassungsgericht\nBikameralismus\nZentralbank\nFöderalismus\n\nFöderalismus hat einen Effekt auf Bikameralismus, Verfassungsrigidität, Zentralbank \nund Verfassungsgerichtsbarkeit. Der Umkehrschluss für unitarische Systeme gilt jedoch \nnicht\n",
+        "extractedPage": "Seite 29",
+        "extractedSession": "Sitzung 10",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_10_Lijphart.pdf",
+        "ectractLectureName": "Sitzung_10_Lijphart.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nVerschiebungen auf der zweidimensionalen Karte über \nZeit\n§ Entsprechung institutioneller \nÄnderungen und Änderungen \nvon Verhaltenswerten finden \nVerschiebungen für \nunterschiedliche Zeiträume \nstatt\n§ Hier: 1945-1980 bzw. 1945-\n1990\n§ Nicht abgebildet: \nVeränderungen Neuseeland \nsowie Großbritannien nach \n1996/7\n\n\nLijphart 2012: 251\n",
+        "extractedPage": "Seite 35",
+        "extractedSession": "Sitzung 10",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_10_Lijphart.pdf",
+        "ectractLectureName": "Sitzung_10_Lijphart.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nTheoretische Kritik an Lijphart\n§\nPräferenzen der Akteure werden vollständig ausgeblendet\n§\nVariablenauswahl bleibt unklar\n§ Warum Interessengruppen, aber nicht Referenden?\n§ Input/Output-Variablen\n§\nVerhältnis der Dimensionen und Zuordnung zu Konsens- und \nMehrheitsdemokratien\n§\nKausale Verknüpfung der unabhängigen Variablen untereinander wird nicht \ndiskutiert\n§\nKausalmodell zwischen unabhängigen und abhängigen Variablen fehlt oftmals\n§ Einzelne Variablen erklären das Policy-Ergebnis\n§ Policy-Ergebnisse werden durch Dimensionen erklärt, \ndie nicht keine dafür relevante Variablen enthalten\n\n\n",
+        "extractedPage": "Seite 45",
+        "extractedSession": "Sitzung 10",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_10_Lijphart.pdf",
+        "ectractLectureName": "Sitzung_10_Lijphart.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nProbleme bei der Indikatorenbildung\nExekutive-Parteien\n§ Operationalisierte Messung\n§ Kontinuierliche Skala\n§ Logische Verbindung zwischen \nVariablen mit \nModellunterstützung\n§ Hohe Korrelationen\n§ Länderwerte gleichmäßig \nverteilt\nFöderalismus-Unitarismus\n§ Geschätzte Messung\n§ Stetige Skala\n§ Logische Verbindung \nzwischen  Variablen ohne \nModellunterstützung\n§ Niedrige Korrelationen\n§ Länderwerte ungleichmäßig \nverteilt\n\n\n",
+        "extractedPage": "Seite 46",
+        "extractedSession": "Sitzung 10",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_10_Lijphart.pdf",
+        "ectractLectureName": "Sitzung_10_Lijphart.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDefizite bei der Operationalisierung und Messung\n§ Wertzuweisung oftmals nicht \nklar bzw. impressionistisch\n§ Durchschnittsbildung oder \ngetrennte Datenpunkte\n§ Indexbildung bei nicht klar, \nerhebliche Differenzen\n§ Oftmals keine \nIntervallskalierung\n§ Kontrollvariablen fehlen \noftmals bzw. werden nicht \nausgewiesen\n§ Signifikanzen sind nicht \nangegeben\n§ Zwischengruppen-\nUnterschiede oftmals klein\nOperationalisierung\nMessung\n\n\n",
+        "extractedPage": "Seite 47",
+        "extractedSession": "Sitzung 10",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_10_Lijphart.pdf",
+        "ectractLectureName": "Sitzung_10_Lijphart.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nVetospielertheorie Grundidee (2)\n§ Abhängige Variable: Policy-Stabilität\n§ Die Policy-Stabilität eines Systems ist die Schwierigkeit, den \nStatus Quo signifikant zu verändern\n§ Ein wichtiger „Indikator“ von Policy-Stabilität ist die Größe der \nGewinnmenge des Status Quo\n§ Zweiter Indikator ist der Core als Bereich, in dem Veränderung \nnicht möglich ist\n\n\n",
+        "extractedPage": "Seite 12",
+        "extractedSession": "Sitzung 12",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_11_Tsebelis.pdf",
+        "ectractLectureName": "Sitzung_11_Tsebelis.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nVetospielertheorie Grundidee (3)\n§ Warum ist Policy-Stabilität wichtig? Sie beeinflusst wichtige \nCharakteristika politischer Systeme laut Tsebelis\nVetospieler\nPolitikstabilität\nRegierungsstabilität\nim Parlamentarismus\nRegimestabilität\nim Präsidentialismus\nUnd: Relevanz Agenda-setting, \nUnabhängigkeit Justiz und Verwaltung\n\n\nExogene Schocks\n",
+        "extractedPage": "Seite 13",
+        "extractedSession": "Sitzung 12",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_11_Tsebelis.pdf",
+        "ectractLectureName": "Sitzung_11_Tsebelis.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nVetospielertheorie Grundidee (4)\n§ Betrachtung von institutionelle und parteipolitischen Vetospielern\n§ Die Politikstabilität ist um so höher und der Wandel somit um so \nschwieriger, \n§ je höher die Anzahl der Vetospieler (Faustregel)\n§ je größer der ideologische Abstand zwischen den Akteuren \n§ und je höher die Mehrheitserfordernis bei kollektiven Vetospielern \n(Faustregel)\n§ Wichtige Ausnahme\n§ Liegt ein neuer Vetospieler im Core der alten VP: \nAbsorption bzw. Quasi-Äquivalenz\n§ Der Agendasetzer hat beträchtliche Vorteile,\n§ die abnehmen, wenn die Policy-Stabilität zunimmt\n§ die zunehmen, wenn er eine mittige Position hat\n\n\n",
+        "extractedPage": "Seite 14",
+        "extractedSession": "Sitzung 12",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_11_Tsebelis.pdf",
+        "ectractLectureName": "Sitzung_11_Tsebelis.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nBestandteile der Vetospielertheorie (1)\n§ Veto-Spieler sind Akteure, deren Zustimmung zur Änderung des Status \nQuo notwendig ist\n§ Institutionelle und parteipolitische\n§ Individuelle und kollektive \n§ Politikstabilität: Schwierigkeit den Status Quo zu ändern (die abhängige \nVariable)\n§\nWinset: Wo ist Veränderung möglich\n§\nCore: Wo ist keine Veränderung möglich\n§ Status Quo: bestehendes Gesetz\n§ Präferenzmenge: Der Bereich, den ein Vetospieler dem Status Quo \nbevorzugt\n§ Identifikation Präferenzmenge: Punktraum innerhalb der \nIndifferenzkurve \n\n\n",
+        "extractedPage": "Seite 15",
+        "extractedSession": "Sitzung 12",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_11_Tsebelis.pdf",
+        "ectractLectureName": "Sitzung_11_Tsebelis.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nBestandteile der Vetospielertheorie (2)\n§ Winset: Das Policy-Ergebnis, die dem Status Quo bevorzugt wird\n§ Identifikation Winset: Schnittmenge zwischen den \nIndifferenzkurven \n§ Core: Punktraum mit leerem Winset (d.h. Status Quo wird hier \nnicht geändert)\n§ Identifikation Core: Verbindungslinien zwischen Akteuren\n§ Kollektive Akteure: funktionieren im Prinzip wie individuelle \nAkteure: Statt Indifferenzkreis Wincircle als Näherung\n\n\n",
+        "extractedPage": "Seite 16",
+        "extractedSession": "Sitzung 12",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_11_Tsebelis.pdf",
+        "ectractLectureName": "Sitzung_11_Tsebelis.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDer Agendasetzer kann innerhalb des Winsets einen \nVorschlag machen und hat so erheblichen Einfluss\n§\nGegeben sind zwei Vetospieler A \nund B und ihr Winset (schraffierte \nFläche)\n§\nIst B der Agendasetzer schlägt er \nPunkt PB vor. A akzeptiert, da dieser \nPunkt Teil seiner Präferenzmenge ist\n§\nIst A der Agendasetzer schlägt er \nPunkt PA vor. B akzeptiert, da dieser \nPunkt Teil seiner Präferenzmenge ist\n§\nErgebnis: Der Agendasetzer kann \nalso im Winset über die gewählte \nLösung entscheiden\n\n\n",
+        "extractedPage": "Seite 23",
+        "extractedSession": "Sitzung 12",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_11_Tsebelis.pdf",
+        "ectractLectureName": "Sitzung_11_Tsebelis.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDer Einfluss von Agendakontrolle sinkt bei Zunahme der \nZahl der Vetospieler\n§\nSituation 1: VP A, X, wobei X \nAgendasetzungsrechte hat\n§ X wählt Punkt X‘ im schraffierten \nWinset (AX)\n§\nHinzukommen eines neuen \nVetospielers B\n§\nSituation 2: VP A, B, X, wobei X \nAgendasetzungsrechte hat\n§ X wählt Punkt X‘‘ im schraffierten \nWinset (ABX)\n§\nErgebnis\n§ Distanz XX‘ < Distanz XX‘‘\n§ Der Effekt der Agendakontrolle \nsinkt bei mehr Vetospielern\n\n\n",
+        "extractedPage": "Seite 24",
+        "extractedSession": "Sitzung 12",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_11_Tsebelis.pdf",
+        "ectractLectureName": "Sitzung_11_Tsebelis.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDer Nutzen von Agendakontrolle\n§ Das Politikergebnis wird durch das Recht der Agendakontrolle \neines Vetospielers beeinflusst\n§ Der Nutzen von Agendakontrolle sinkt mit kleiner werdendem \nWinset (steigender Anzahl an Vetospielern)\n§ Der Nutzen von Agendakontrolle steigt bei mittiger Lage des \nAgendasetzers auch bei vielen Vetospielern\n§ Zur Messung von Agendakontrolle finden sich Indizes (z.B. Döring \nIndex)\n\n\n",
+        "extractedPage": "Seite 25",
+        "extractedSession": "Sitzung 12",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_11_Tsebelis.pdf",
+        "ectractLectureName": "Sitzung_11_Tsebelis.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nKollektive Vetospieler\n§\nKollektive Vetospieler, die eine einheitliche Entscheidung aus \nvielen Individualwillen herbeiführen müssen, können im Prinzip \nnach den auch für individuelle Vetospieler geltenden Regeln \nanalysiert werden. \n§\nGeringfügige Erweiterung der für individuelle Vetospieler \ngeltenden Regeln \n§\nDie Indifferenzkurve eines kollektiven Vetospielers verändert sich \nje nach der Homogenität oder Heterogenität der Präferenzen der \nindividuellen Mitglieder dieses Vetospielers sowie den \nMerheitsregeln\n\n\n",
+        "extractedPage": "Seite 26",
+        "extractedSession": "Sitzung 12",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_11_Tsebelis.pdf",
+        "ectractLectureName": "Sitzung_11_Tsebelis.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nVetospieler – ja oder nein?\nInstitution / Akteur im \nGesetzgebungsprozess\na)\nStaatspräsident in parl. Systemen\nb)\nSymmetrische zweite Kammer\nc)\nAsymmetrische zweite Kammer\nd)\nRegierung im Parlamentarismus\ne)\nParlament im Parlamentarismus\nf)\nRegierungsfraktion im Parlamentarismus\ng)\nPräsident im Präsidentialismus\nh)\nStaatliche Verwaltung \ni)\nParlament im Präsidentialismus\nj)\nStarke Gewerkschaft\nk)\nVolksinitiative\nl)\nVerfassungsgericht\nEinordnung in das Konzept \nbei Tsebelis\na)\nKein VP\nb)\nInstitutioneller kollektiver VP\nc)\nKein VP\nd)\nKein VP -> Regierungsfraktion\ne)\nKein VP -> Regierungsfraktion\nf)\nParteipolitischer kollektiver VP\ng)\nInstitutioneller individueller VP\nh)\nKein VP\ni)\nInstitutioneller kollektiver VP\nj)\nKein VP\nk)\nInstitutioneller kollektiver VP\nl)\nInstitutioneller kollektiver VP\n\n\n",
+        "extractedPage": "Seite 27",
+        "extractedSession": "Sitzung 12",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_11_Tsebelis.pdf",
+        "ectractLectureName": "Sitzung_11_Tsebelis.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nEmpirische Messung der Vetospielertheorie\n§ Zahl der Vetospieler identifizieren (Gesetzgebungsprozess, \nVerfassung)\n§ Ideologische Position in einem ein- oder mehrdimensionalen \nRaum identifizieren (MARPOR, 10er Skala etc.)\n§ Sequenz der Abstimmungsreihenfolge und Agendakontrollrechte \nbestimmen (Gesetzgebungsprozess, Verfassung)\n§ Status Quo bestimmen in einem ein- oder mehrdimensionalen \nRaum identifizieren (!!! Problematisch)\n§ Winset und Core berechnen (ohne Status Quo ist nur der Core \nberechenbar)\n\n\n",
+        "extractedPage": "Seite 40",
+        "extractedSession": "Sitzung 12",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_11_Tsebelis.pdf",
+        "ectractLectureName": "Sitzung_11_Tsebelis.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nKritikpunkte an Tsebelis (1): Präferenzen\n§ Nur Policy-Präferenzen berücksichtigt\n§ Modelle mehrdimensional, Messung durchgehend eindimensional\n§ Präferenzmessung: Unterscheidung zwischen Outcome-\nPräferenzen und Policy-Präferenzen (Ganghof)\n§ Starke Status Quo Abhängigkeit des Modells, wenn über die \nWinset-Größe und nicht den Core gesprochen wird\n§ Lässt nur bedingt strategisches Handeln zu \n\n\n",
+        "extractedPage": "Seite 42",
+        "extractedSession": "Sitzung 12",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_11_Tsebelis.pdf",
+        "ectractLectureName": "Sitzung_11_Tsebelis.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nKritikpunkte an Tsebelis (2): Institutionen\n§ Behandlung von übergroßen Koalitionen (Strøm)\n§ Verschiedene Typen an Vetopunkten: konsensual und kompetitiv \n(Birchfield and Crepaz)\n§ Verschiedene Typen an Vetologiken: Entscheidungsregel und \nSequenz (Ganghof)\n§ Zu eng gefasster Begriff an relevanten Akteuren (Kaiser)\n\n\n",
+        "extractedPage": "Seite 43",
+        "extractedSession": "Sitzung 12",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_11_Tsebelis.pdf",
+        "ectractLectureName": "Sitzung_11_Tsebelis.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nStruktur der Vorlesung\nDas Verhältnis von Staatspräsident, Regierung und Parlament\nRegierungsform: Parlamentarismus\nRegierungsform: Präsidentialismus\nRegierungsform: Semi-Präsidentialismus\nZusammenfassung\n\n\n",
+        "extractedPage": "Seite 6",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nGrundlegende Frage\nDie grundlegende Frage für die Klassifikation von demokratischen \nSysteme lautet: \nIn welchem Verhältnis stehen Staatsoberhaupt, Regierung und \nParlament? \n§ Wer ernennt/wählt wen? \n§ Und wer kann wen entlassen/abwählen?\nZiel: Erstellung einer Klassifikation!\n\n\n",
+        "extractedPage": "Seite 7",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nKlassifikation als Instrument der vergleichenden \nPolitikwissenschaft\n§ Arten von Klassifikationen\n§ Taxonomie (eindimensional)\n§ Typologie (mehrdimensional)\n§ Grundvoraussetzungen einer Klassifikation (Wichtig!)\n§ Vollständigkeit \n§ Überschneidungsfreiheit\n\n\n",
+        "extractedPage": "Seite 8",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nGrundsätzliches Beispiel einer Typologie mit 4 \nKategorien und 9 Beispielländern\nVariable 2\n(z.B. DD)\nVariable 1\n(z.B. \nFöderalismus)\nAusprägung 1\n(Demokratie)\nAusprägung 2\n(nicht Demokratie)\nAusprägung 1\n(föderal)\nTyp 1\n(Land A, C)\nTyp 2\n(Land B, F)\nAusprägung 2\n(nicht föderal)\nTyp 3\n(Land D, I)\nTyp 4\n(Land E, G, H)\n\n\n",
+        "extractedPage": "Seite 9",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nÜberschneidungsfreiheit muss gewährleistet sein! Land A \ndarf nicht gleichzeitig in 2 Kategorien gehören \nVariable 2\nVariable 1\nAusprägung 1\nAusprägung 2\nAusprägung 1\nTyp 1\n(Land A, C)\nTyp 2\n(Land A, B, F)\nAusprägung 2\nTyp 3\n(Land D, I)\nTyp 4\n(Land E, G., H)\n\n\nLand A?\n",
+        "extractedPage": "Seite 10",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nVerschieden Klassifikationsversuche des Verhältnisses \nder drei Akteure Parlament, Regierung, Staatsoberhaupt\nUnter anderem:\n§ Steffani 1979 (in Deutschland viel diskutiert)\n§ Duverger 1980\n§ Lijphart 1984\n§ Shugart/Carey 1992\n§ Przeworski et al. 2000 (PACL)\n§ Shugart 2005\nBisher gibt es keine akzeptierte Klassifikation, die die beiden \nKriterien (vollständig und überschneidungsfrei) komplett erfüllt\nInsbesondere die Schweiz und Israel (1996-2003) stellen sich als \nproblematisch bei der Einordnung dar\n\n\n",
+        "extractedPage": "Seite 12",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nIn welchem Verhältnis stehen Staatsoberhaupt, \nRegierung und Parlament?\n§ Bisher gibt es keine abschließende und einheitliche Klassifikation \nmöglicher Systemtypen, die die üblichen Kriterien einer \nKlassifikation erfüllt\n§ Um besser zu verstehen, wie die unterschiedlichen Systeme \nfunktionieren, ist es möglich und sinnvoll, ihre internen \nAbhängigkeiten als Auftraggeber und Auftragnehmerverhältnis zu \nverstehen\n§ Hierzu hilft der Prinzipal-Agent-Ansatz weiter\n\n\n",
+        "extractedPage": "Seite 19",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nPrincipal Agent Ansatz – Grundidee (1)\n§ Prinzipal (Auftraggeber) delegiert eine Aufgabe an einen Agenten \n(Auftragnehmer). Dieser soll den Auftrag für eine Gegenleistung \nausführen und ist dem Auftraggeber gegenüber verantwortlich\n§ Probleme\n§ Ziele/Präferenzen Auftragnehmer weichen vom Auftraggeber ab\n§ Agency Loss: Der Auftragnehmer integriert seine eigenen Vorstellungen und \nsetzt die Ziele des Auftraggebers nicht vollständig um\n§ Informationsasymmetrie Auftraggeber und Auftragnehmer\n§ Moral Hazard: Der Auftragnehmer kann Handlungen durchführen, die dem \nAuftraggeber verborgen bleiben\n§ Adverse Selection: Bestimmte Eigenschaften/Einstellungen des Agenten sind \ndem Prinzipal nicht bekannt\n\n\n",
+        "extractedPage": "Seite 20",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nPrincipal Agent Ansatz – Grundidee (2)\n§ Überwachungsmechanismen des Auftraggebers\n§ Ex-ante: Auswahl des Agenten\n§ Ex-post: Kontrolle des Agenten\n§ Fire alarm: Kontrolle nach Alarmmeldung\n§ Police patrol: Regelmäßige Kontrolle\n§ Transaktionskosten\n§ Kosten für Vertragsschließung\n§ Kosten für Überwachung\n§ Keine vollständige Überwachung des Auftragnehmers möglich\n§ Transaktionskosten entstehen\n\n\n",
+        "extractedPage": "Seite 21",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDelegation und Verantwortlichkeit (Accountability)\n\n\nAgent\nAuftragnehmer\nPrinzipal\nAuftraggeber\n1. Delegation einer Aufgabe mittels Vertrag (Transaktionskosten)\n2. Monitoring des Agenten (Transaktionskosten)\n1. Verantwortlichkeit für Aufgabenerfüllung (Accountability)\n2. Informationsasymmetrie / Moral Hazard / Agency Loss\n",
+        "extractedPage": "Seite 22",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nlinks \nrechts\nSQ\n1\nP/A\n4\n3\n5\nPP (SQ) = PA (SQ)\nKein Agency Loss bei identischen \nPräferenzen (oben)\nAgency Loss ⎜PA⎟ . Der Agent  \n(A) wählt seinen Idealpunkt statt \nden des Prinzipals (P), der das \nErgebnis akzeptiert, weil Teil seiner \nPräferenzmenge\nPrincipal Agent Ansatz – Agency Loss\n\n\nlinks \nrechts\nSQ\nP\nA\n4\n3\n5\nPA (SQ)\nPP (SQ)\nAgency Loss ⎜PA⎟\n",
+        "extractedPage": "Seite 23",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nGrundprinzip parlamentarischer Systeme (2)\n[...] In such constitutions there are two parts (not indeed separable with microscopic accuracy, for the \ngenius of great affairs abhors nicety of division): first, those which excite and preserve the reverence of \nthe population--the DIGNIFIED parts, if I may so call them; and next, the EFFICIENT parts--those by \nwhich it, in fact, works and rules. [...] The Queen is only at the head of the dignified part of the \nConstitution. The Prime Minister is at the head of the efficient part. [...] \nThe efficient secret of the English Constitution may be described as the close union, the nearly \ncomplete fusion, of the executive and legislative powers. [...] The legislature, chosen, in name, to make \nlaws, in fact finds its principal business in making and keeping an executive [...] \nThe connecting link is the Cabinet. By that new word we mean a committee of the legislative body \nselected to be the executive body. The legislature has many committees, but this is its greatest. It \nchooses for this, its main committee, the men in whom it has most confidence. [...] \nThe leading Minister so selected has to choose his associates, but he only chooses among a charmed \ncircle. The position of most men in Parliament forbids their being invited to the Cabinet; the position \nof a few men ensures their being invited. Between the compulsory list whom he must take, and the \nimpossible list whom he cannot take, a Prime Minister's independent choice in the formation of a \nCabinet is not very large [...] \n(Walter Bagehot 1867, The English Constitution)\n\n\nAlso featured in: Netflix, \nThe Crown, Staffel 1, \nFolge 7, Scientia \nPotentia Est\n",
+        "extractedPage": "Seite 27",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\n\n\nIdealtypische Delegationskette im parlamentarischen \nSystem\nParlament\n(Median)Wähler\nGeburt\nPräsident \nMonarch\nWahl/Abwahl\nRegierungschef\nKabinett\nVerwaltung\nWahl/Abwahl\nLeitung\nWahl\nAuflösung\nKabinettsverantwortung\nRessortverantwortung\n",
+        "extractedPage": "Seite 28",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nIdealtyp Parlamentarismus\n1. Zwei primäre Merkmale des Parlamentarismus\n§ Exekutive (Regierung) geht aus der Legislative (Parlament) hervor. Hierzu \nist aber nicht unbedingt eine Investiturabstimmung erforderlich\n§ Abberufbarkeit der Regierung durch Parlament: Die Regierung kann zu \njedem Zeitpunkt aus politischen Gründen durch ein einfaches/konstruktives \nMisstrauensvotum der Parlamentsmehrheit abgewählt werden\n§ „Throwing the rascals out“\n2. Sekundäre Merkmale des Parlamentarismus\n§ Neben den primären Merkmalen gibt es noch sekundäre, nicht überall \nvorhandene Merkmale\n§ Sowie einige Ausnahmeländer\n\n\n",
+        "extractedPage": "Seite 29",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nGrundlegende Abhängigkeitsmechanismen in einem \nparlamentarischen System\n§ Investiturabstimmung: Abstimmung über Regierungschef \nund/oder Kabinett zu Beginn der Legislaturperiode durch das \nParlament\n§ Einfaches Misstrauensvotum: Abwahl des Regierungschefs bzw. \neinzelner Minister durch das Parlament\n§ Konstruktives Misstrauensvotum: Abwahl der alten Regierung nur \ndurch Wahl einer neuen Regierung  durch das Parlament\n§ Vertrauensfrage: Durch Regierungschef gegenüber der \nParlamentsmehrheit. Bei Niederlage Parlamentsauflösung\n§ Parlamentsauflösung: Parlamentsauflösung durch Regierungschef \nbzw. Kabinett (nicht immer möglich – fixed term parliaments)\n\n\n",
+        "extractedPage": "Seite 30",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nFünf Grundtypen von Regierungen, kombiniert durch \nMehrheitsstatus und Parteienzahl\nMinderheits-\nregierung\nMehrheits-\nregierung\nÜbergroße \nMehrheit \nEine Partei\nEinparteien-\nminderheits-\nregierung \nEinparteien-\nmehrheits-\nregierung\nKoalitions-\nregierung\nMinderheits-\nkoalition\nMinimal-\ngewinn-\nkoalition\nÜbergroße \nKoalition\n\n\nMehrheitsstatus\nParteienzahl\n",
+        "extractedPage": "Seite 35",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nÜbergroße Regierungen\n§ Übergroße Koalitionen kommen eher selten vor\n§ Sie beinhalten mehr Parteien, als zur Aufrechterhaltung des \nRegierungsstatus nötig wären\n§ Es gibt eine Reihe von Variablen, die das Auftreten von \nübergroßen Koalitionen beeinflussen:\n§ Policy-Variablen\n§ Nationale Krise / Krieg (erhöht Wahrscheinlichkeit)\n§ Umstrittene Policies (erhöht Wahrscheinlichkeit)\n§ Senkung des Erpressungspotenzials (erhöht Wahrscheinlichkeit)\n§ Institutionelle Variablen\n§ Supermajorität oft erforderlich (erhöht Wahrscheinlichkeit)\n§ Geheime Abstimmungen (erhöht Wahrscheinlichkeit)\n\n\n",
+        "extractedPage": "Seite 37",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nMinderheitsregierungen\n§ Minderheitsregierungen sind ein ziemlich normales Phänomen in \nEuropa\n§ Ca. 28% aller Regierungen sind Minderheitsregierungen in der EU\n§ Es gibt eine Reihe von Variablen, die das Auftreten von \nMinderheitsregierungen beeinflussen:\n§ Policy-Variablen\n§ Zersplitterung der Opposition (erhöht Wahrscheinlichkeit)\n§ Zentrale Lage der Regierungsparteien (erhöht Wahrscheinlichkeit)\n§ Institutionelle Variablen\n§ Investiturabstimmung (senkt Wahrscheinlichkeit)\n§ Hoher Oppositionseinfluss (erhöht Wahrscheinlichkeit)\n§ Agendakontrolle der Regierung (erhöht Wahrscheinlichkeit)\n\n\n",
+        "extractedPage": "Seite 38",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nWie kann Koalitionsbildung für \nMinimalgewinnkoalitionen erklärt werden?\n§ Handlungsmotive von Politikern\n§ Vote: entfällt, da bereits gewählt….\n§ Office: Ämter sind ein politischer Preis\n§ Policy: Politik kann endlich umgesetzt werden\n§ Diverse institutionelle Regeln, z.B. Investiturabstimmung, \nFormateur etc.\n§ Formateur schlägt den Koalitionsbildner vor. Wichtig, insbesondere \nwenn mehrere Alternativen möglich sind. \n§ Investiturabstimmung: Wahl des Regierungschefs zu Beginn der \nLegislaturperiode\n\n\n",
+        "extractedPage": "Seite 44",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nOffice-gebundene Koalitionstheorien (1)\n§ Minimal winning (Riker): Es werden nur so viele Parteien in die \nRegierung geholt, wie zur Bildung einer Mehrheit (50%+1) \nnotwendig sind\n§ Varianten\n§ Minimal winning (Alle 50%+1 Sitz Varianten)\n§ Minimum size (Sitzzahl wird minimiert) [im Buch: Least minimal winning]\n§ Bargaining proposition (Parteienzahl wird minimiert)\n§ Mittels Machtindizes kann die Stärke von Parteien bei der \nKoalitionsbildung erfasst werden\n§ Banzhaf\n§ Shapley-Shubik\n§ Per se nicht erklärt werden dadurch\n§ Übergroße Koalitionen\n§ Minderheitsregierungen\n\n\n",
+        "extractedPage": "Seite 45",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nPolicy-gebundene Koalitionstheorien (2)\n§ Office-gebundene Theorien können auch zu Kombinationen \nführen, die aus ideologischen Gründen keinen Sinn machen (z.B. \nDie Linke – CDU)\n§ Deshalb werden politische Positionen zur Erklärung zusätzlich \nherangezogen\n§ Minimal Connected Winning (Axelrod 1970): es bilden sich \nKoalitionen von nebeneinander liegenden Parteien, die minimal \nwinning sind\n§ Varianten: \n§ Minimal connected winning (alle nebeneinander liegende Koalitionen mit \n50%+1 Sitz)\n§ Minimum Range (Minimierung des Abstandes auf der ideologischen Achse)\n§ Policy Viable (Starke Parteien, die den Medianabgeordneten beinhalten, \nsind zentral bei der Koalitionsbildung)\n\n\n",
+        "extractedPage": "Seite 46",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nBeispiel 1: Deutschland. Ein typischer Fall von \nMinimalgewinnkoalitionen\n\n\nGallager/Laver/Mair 2006: 394\nVariante: Minimum Range \nprognostiziert SPD-Grüne\nGreens\nVariante: Minimum Size \nprognostiziert nur CDU/CSU-\nGrüne\nVariante: Bargaining \nProposition prognostiziert alle \ndrei MWC Varianten\nVariante: Policy Viable \nprognostiziert beide MCWC \nVarianten\nActual Government: Greens-SPD\n",
+        "extractedPage": "Seite 47",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nBeispiel 2: Norwegen. Ein typischer Fall für \nMinderheitsregierungen\n\n\nGallager/Laver/Mair 2006: 396\nKoalitionstheorien erklären \nkeine Minderheitsregierung. \nErklärung des Auftretens siehe \nvorne.\nAber dennoch Annäherung an \nMinimal Range Coalition bei \ngleichzeitiger Minimierung der \nSitzzahl (Minimum Size)\n",
+        "extractedPage": "Seite 48",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nBeispiel 3: Italien: Ein typischer Fall von übergroßen \nKoalitionen\n\n\nGallager/Laver/Mair 2006: 398 \nKoalitionstheorien erklären \nkeine übergroßen Regierungen. \nErklärung des Auftretens siehe \nvorne\nÜbergroßer Anteil: Zwei \nzusätzliche Koalitionspartner\n",
+        "extractedPage": "Seite 49",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nKabinettszusammensetzung\n§ Kabinettsallokation ist wichtig, weil in den Ministerien Gesetze \nentworfen werden und der jeweilige Fachminister \nRessortverantwortung besitzt. Er besitzt also \nAgendasetzungsrechte\n§ Die Ressortverteilung hat auch starke Effekte auf die tatsächliche \nPolitik einer Regierung (bei gegebener Parteienzusammensetzung)\n§ Gamson‘s Law bestimmt die Kabinettsverteilung: Der \nKabinettsanteil einer Regierungspartei ist so hoch wie ihr \nSitzanteil im Parlament\n\n\n",
+        "extractedPage": "Seite 52",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nRegierungsstabilität – Konzeption und Messung\n§ Was bedeutet Regierungsstabilität bzw. Kabinettsstabilität?  \nWann ist das Ende eines Kabinetts / einer Regierung gekommen?\n§ Mögliche Ansatzpunkte: Tausch Regierungschef, Tausch Minister, \nTausch Regierungspartei, reguläres Ende der Legislaturperiode, \nvorgezogene Wahl etc.\n§ Zwei Operationalisierungsvarianten finden sich in der Literatur \n(z.B. Lijphart 1999)\n§ Variante 1: Wechsel Regierungspartei, z.B. von CDU/FDP nach SPD/Grüne \nund zu CDU/SPD bzw. Tories zu Labour in Großbritannien und Status\n§ Variante 2: jedes formale Ende (Ende einer Legislaturperiode, Austausch \ndes Premiers…), z.B. Rot-Grün 1998-2002 nach 2002-2005, Übergang von \nThatcher zu Major in Großbritannien\n\n\n",
+        "extractedPage": "Seite 59",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nIdealtyp des Präsidentialismus\n§ Zwei grundlegende Kriterien\n§ (1) Der Chef der Exekutive ist ein direkt oder quasi-direkt gewählter \nPräsident\n§ (2) Die Amtszeiten des Chefs der Exekutive und der legislativen \nVersammlung sind fixiert, es gibt kein Vertrauensverhältnis zwischen \nExekutive und Legislative\n§ Kombination dieser Kriterien führen zu zwei unabhängigen \nAgenten, die bei der Gesetzgebung miteinander verhandeln \nmüssen: Gewaltenteilung (separation of powers)\n\n\n",
+        "extractedPage": "Seite 69",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\n\n\nDelegationskette im präsidentiellen System\nParlament\n(Median)Wähler\nWahl\nPräsident\nWahl\nKabinett\nVerwaltung\nLeitung\nAufgaben (tlw.)\nErnennung\nEntlassung\n",
+        "extractedPage": "Seite 70",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nMitwirkung des Präsidenten in der Gesetzgebung\n§ In der Regel hat der Präsident keine Antragsrechte im Parlament, \nda Exekutive und Legislative getrennt sind\n§ Ihm stehen jedoch einige Instrumente der Mitwirkung in der \nGesetzgebung zur Verfügung\n§ Dekrete: haben Gesetzesrang, bedürfen jedoch einem Parlamentsgesetz als \nErmächtigungsgrundlage\n§ Dekretgesetze: haben den gleichen Rang wie Parlamentsgesetze\n§ Vetorechte: Ein Veto verhindert, dass ein Gesetzentwurf des Parlamentes \n(bill) in ursprünglicher Form in Kraft tritt und zum Gesetz wird (law)\n§ block veto: Veto gegen das gesamte Gesetz\n§ pocket veto: Gesamtveto durch unterlassene Handlung des Präsidenten\n§ line item veto: Einzlene Paragraphen können gestrichen werden\n§ amendatory veto: Es können Ergänzungen vorgenommen werden\n\n\n",
+        "extractedPage": "Seite 71",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nRegierungsbildung und Regierungstypen im \nPräsidentialismus (1)\n§ Die Regierung besteht in einem präsidentiellen System aus dem \nStaatsoberhaupt und seinem Kabinett. Das Staatsoberhaupt \nrepräsentiert den Staat und ist zugleich der Regierungschef\n§ Wichtig: In präsidentiellen Systemen fallen also \nKabinettskoalition (parteipolitische Besetzung des Kabinettes) und \nGesetzgebungskoalition (Mehrheit im Parlament) auseinander, \nwährend sie im parlamentarischen System eine Einheit bilden\n§ Es ist nicht funktionslogisch notwendig, dass der Präsident eine \nMehrheit im Parlament hat. Es handelt sich um das konträre \nModell zum Efficient Secret (Bagehot).\n\n\n",
+        "extractedPage": "Seite 72",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nRegierungsbildung und Regierungstypen im \nPräsidentialismus (2)\n§ Dennoch braucht der Präsident eine Mehrheit im Parlament für \nsein Gesetzgebungsprogramm\n§ Dennoch bestehen starke Anreize, eine halbwegs stabile \nKabinettskoalition zu bilden, insbesondere, wenn der Präsident \nnur geringe Dekret- und Vetorechte hat. Er braucht also eine \nimplizite Parlamentsmehrheit\n§ Die Anreize sind jedoch weniger stark als in parlamentarischen \nSystemen: Minderheitsregierungen treten in 46% der Fälle auf in \npräsidentiellen Systemen (statt 33% in parlamentarischen \nSystemen)\n\n\n",
+        "extractedPage": "Seite 73",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\n\n\nKabinettszusammensetzung im Präsidentialismus (2)\nClark/Golder/Golder 2012: 505\n",
+        "extractedPage": "Seite 76",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nRegierungsstabilität im Präsidentialismus \n§ Die Amtszeit des Präsidenten ist in der Verfassung fixiert\n§ Es kommt in einem stabilen System nur zu einem vorzeitigen \nEnde durch Amtsverzicht, Amtsenthebung oder Tod\n\n\n",
+        "extractedPage": "Seite 77",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nVerhältnis Staatsoberhaupt und Regierungschef/Kabinett\n§ Dier bisher eingeführt Unterteilung hat auf das Verhältnis \nRegierung und Parlament fokussiert, ging jedoch von einer \neinheitlichen Exekutive aus\n§ In parlamentarischen Systemen wurde die Rolle des \nStaatsoberhauptes nicht berücksichtigt\n§ Das Staatsoberhaupt wird vom Parlament gewählt\n§ Das Staatsoberhaupt ist teilweise nicht gewählt, sondern ein Monarch in einer \nrepräsentativen Demokratie\n§ Die Aufgaben sind überwiegend zeremoniell („Staatsnotar“, „Royal Assent“)\n§ Aber: Es finden sich auch Länder, die ein direkt gewähltes \nStaatsoberhaupt haben mit, welches auch über repräsentative \nAufgaben hinaus gehende Funktionen hat\n\n\n",
+        "extractedPage": "Seite 79",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nSemi-Präsidentialismus (1)\n§ Maurice Duverger (1980) A New Political System Model: Semi-\nPresidential Government\n§ „Semi-Präsidentialismus“\n§ Vorbild: V. Französische Republik (1959/1981)\n§ Definition über 3 Kriterien\n1.\nEs gibt es einen Regierungschef und ein Kabinett, die von der \nParlamentsmehrheit abhängig sind\n2.\nEs gibt einen direkt gewählten Präsidenten\n3.\nDer Präsident hat laut Verfassung „erhebliche“ Kompetenzen\n\n\n",
+        "extractedPage": "Seite 80",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nCohabitation und Domaine resérvé – der Fall Frankreich\n§ Cohabitation bedeutet, dass der Präsident und die Mehrheit im \nParlament (und damit Premier und Kabinett) unterschiedlichen \nParteien angehören.\n§ Damit ist die Exekutive (bestehend aus Präsident, Premier und \nKabinett) gespalten\n§ Domaine resérvé bezeichnet Aufgaben, die auch bei einer \nCohabitation beim Präsidenten verbleiben: Außenpolitik und \nSicherheitspolitik \n§ De facto handelt es sich bei der domaine resérvé eher um eine \ndomaine partagé (z.B. Europäische Union)\n\n\n",
+        "extractedPage": "Seite 81",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nSemi-Präsidentialismus (3)\n§ Problem bei Duverger: Das Konzept „erhebliche“ Kompetenzen ist \nnicht klar. Es gibt keinen Konsens über die Operationalisierung\n§ Beispiele wichtiger Kompetenzen: \n§ Entlassung der Regierung\n§ Parlamentsauflösung\n§ Vetorecht\n§ Fast alle Systeme mit direkt gewählten Präsidenten werden in der \nRegel auch als „semi-präsidentiell“ klassifiziert\n§ Einfachste und breiteste Definition von Semi-Präsidentialismus \ndeshalb: (1) Direkt gewählter Präsident bei  (2) gleichzeitiger \nAbberufbarkeit der Regierung durch das Parlament\n\n\n",
+        "extractedPage": "Seite 83",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nSemi-Präsidentialismus (4)\n§ Shugart/Carey (1992): Presidents and Assemblies, Cambridge, \nCambridge University Press\n§ Es gibt Vorschläge, semi-präsidentielle Systeme weiter zu \nunterteilen\n§\nPremier-präsidentielle Systeme: Der Premier und sein Kabinett werden vom \nPräsidenten ernannt, können aber nur vom Parlament durch ein \nMisstrauensvotum gestürzt werden\n§\nPräsidentiell-parlamentarische Systeme: Der Premier und sein Kabinett \nwerden vom Präsidenten ernannt und können vom Präsident entlassen wie \nauch vom Parlament durch ein Misstrauensvotum gestürzt werden\n\n\n",
+        "extractedPage": "Seite 84",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nRegierungsbildung, Regierungstypen, \nKabinettszusammensetzung und Regierungsstabilität\n§ Regierungsbildung, Regierungstypen, Kabinettszusammensetzung  \nund Regierungsstabilität sind bei semi-präsidentiellen Systemen \nabhängig vom Subtyp, also premier-präsidentiell bzw. \npräsidentiell-parlamentarisch\n§ Premier-präsidentielle Systeme funktionieren analog zu \nparlamentarischen Systemen und werden typischerweise \nempirisch auch in dieser Gruppe mitanalysiert\n§ Über präsidentiell-parlamentarische Subtypen ist nur wenig \nbekannt. Es scheint aber, dass diese effektiv weder vollständig wie \nparlamentarische, noch vollständig wie präsidentielle Systeme \nfunktionieren\n\n\n",
+        "extractedPage": "Seite 90",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nIn welchem Verhältnis stehen Staatsoberhaupt, \nRegierung und Parlament?\n§ Bisher gibt es keine abschließende und einheitliche Klassifikation \nmöglicher Systemtypen, die die üblichen Kriterien einer \nKlassifikation erfüllt\n§ Gängige Unterscheidungen\n§ Parlamentarismus\n§ Präsidentialismus\n§ Semi-Präsidentialismus\n§ Präsidentiell-parlamentarisch\n§ Premier-präsidentiell\n§ Sonderfälle: Versammlungsunabhängige Systeme (Schweiz) und \ndirektwahl-parlamentarische Systeme (Israel 1996-2003)\n\n\n",
+        "extractedPage": "Seite 92",
+        "extractedSession": "Sitzung 5 und 6",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_5_6_Systeme._Sitzung.pdf",
+        "ectractLectureName": "Sitzung_5_6_Systeme._Sitzung.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nBikameralismus\n§ Bikameralismus bedeutet, das das Parlament aus zwei Kammern \nbesteht\n§ Grundfragen des Bikameralismus\n§ Warum sind zwei Kammern entstanden?\n§ Wie wird die zweite Kammer besetzt?\n§ Welche Rechte hat sie im Verhältnis zur ersten Kammer?\n§ Standardwerk: George Tsebelis / Jeanette Money (1997): \nBicameralism, Oxford, OUP\n\n\n",
+        "extractedPage": "Seite 22",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nGründe für die Entstehung von zweiten Kammern\n§ Historische Gründe der Repräsentation unterschiedlicher \nGesellschaftsschichten (Stände) oder Territorien\n§ Im Zuge der Demokratisierung wurden die ehemaligen – meist \nden Adel repräsentierenden – Parlamentskammern in unitarischen \nStaaten um eine weitere „demokratische Kammer“ ergänzt (z.B. \nGroßbritannien). In einigen Fällen kam es auch zur \nDemokratisierung der bestehenden Kammer (z.B. Dänemark)\n§ Zweite Kammern finden sich immer in föderalen Systemen zur \nRepräsentation der Gliedstaaten (z.B. Deutschland)\n\n\n",
+        "extractedPage": "Seite 23",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nZentrale analytische Begriffe zu Besetzung und \nAufgaben der zweiten Kammer\n§ Aufgaben: Symmetrie und Asymmetrie\n§ Sind beide Kammern gleichberechtigt (Symmetrie)? → Zweites Kammer \nhat Veto\n§ Kann eine Kammer die andere überstimmen (Asymmetrie)? → Zweite \nKammer hat nur suspensives Veto\n§ Besetzung: Kongruenz und Inkongruenz\n§ Werden beide gleichermaßen zusammen gesetzt (Kongruenz) oder ist die \nZusammensetzung unterschiedlich (Inkongruenz)?\n\n\n",
+        "extractedPage": "Seite 24",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nSymmetrie und Kongruenz zur Bewertung zweiter \nKammern\nStärke zweiter Kammern\nSymmetrie\nAsymmetrie\nInkongruenz\nStarker Bikameralismus \n(Deutschland, USA)\nSchwacher \nBikameralismus\n(Frankreich, Kanada)\nKongruenz\nSchwacher \nBikameralismus (Italien, \nJapan)\nIrrelevanter \nBikameralismus \n(Österreich, Jamaica)\n\n\n",
+        "extractedPage": "Seite 25",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDas Phänomen der ungleichen Repräsentation (1): \n„Malapportionment“ \n§ Auch bei direkter Wahl kommt es dazu, dass Gruppen bzw. \nRegionen ungleich in der zweiten Kammer repräsentiert werden. \nDadurch besitzt die Stimme von Bürgern unterschiedliches \nGewicht \n§ Dieses Phänomen heißt „Malapportionment“\n\n\n",
+        "extractedPage": "Seite 27",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDas Phänomen der ungleichen Repräsentation (2): \n„Malapportionment“ \nBundesrat\n§\nNRW\n§ Ca. 17.840.000 Einwohner\n§ 6 Stimmen im Bundesrat\n§ Ca. 2.933.000 Einwohner / Stimme\n§\nBremen \n§ Ca. 550.000 Einwohner\n§ 3 Stimmen im Bundesrat\n§ Ca. 183.000 Einwohner / Stimme\n§\nDas Stimmgewicht jedes Bremers ist \n16 mal so hoch wie das jedes \nBürgers aus NRW\nUS Senat\n§\nKalifornien \n§ Ca. 37.691.000 Einwohner\n§ 2 Stimmen im Senat\n§ Ca. 18.455.000 Einwohner / Stimme\n§\nWyoming\n§ Ca. 570.000 Einwohner\n§ 2 Stimmen im Senat\n§ Ca. 285.000 Einwohner / Stimme\n§\nDas Stimmgewicht jedes Bürger aus \nWyoming ist 66 mal so hoch wie \ndas jedes Kaliforniers\n\n\n",
+        "extractedPage": "Seite 28",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nKonfliktlösungsmechanismen zwischen den Kammern\n§ Es finden sich empirisch zahlreiche Mechanismen, um Konflikte \nzwischen der ersten und zweiten Kammer zu lösen\n§ Hierzu zählen\n§ Vermittlungsaussschuss (conference committee), der einen Vorschlag \nmacht, der von beiden Kammern angenommen werden muss (z.B. \nBundesrat Zustimmungspflichtige Gesetzgebung)\n§ Navette: Der Entwurf pendelt zwischen den Kammern hin und her und \nnähert sich so einem Kompromiss an (z.B. Frankreich)\n§ Dauerhaftes Pendeln\n§ Abbruch durch Regierung\n§ Ablehnung des Vorschlags nach bestimmter Pendelzahl\n§ Gemeinsame \n§ Eine Kammer hat das Letztentscheidungsrecht (z.B. Bundesrat \nEinspruchsgesetze)\n\nSitzung 7\n",
+        "extractedPage": "Seite 30",
+        "extractedSession": "Sitzung beider Parlamentskammern (z.B. Schweiz)",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nFöderalismus als Begriff\n§ Föderalismus: Ein Staat, in dem staatliche Macht (Souveränität) \nmindestens auf zwei Ebenen verteilt ist und die Machtverteilung \nin der Verfassung festgehalten ist\n§ Charakteristika föderaler Staaten (Bednar 2009)\n§ Der Herrschaftsbereich der Regionalregierungen ist untereinander klar \nabgegrenzt \n§ Der Herrschaftsbereich der nationalen und regionalen Regierungen ist \nabgegrenzt und ruht auf einer eigenständigen Autoritätsquelle\n§ Jeder Bürger wird durch die beiden Ebenen direkt regiert\n§ Gegenmodell: Einheitlicher Staat (Unitarischer Staat)\n\n\n",
+        "extractedPage": "Seite 33",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nGründe für das Entstehen von Föderalismus\n§ Coming together These\n§ Aushandlungsprozess kleinerer Staaten zur Konzentration (Fusion)\n§ Z.B. Deutschland, EU, Schweiz\n§ Holding together These\n§ Auseinander strebende Teile eines Einheitsstaates sollen durch föderale \nArrangements zusammengehalten werden\n§ Z.B. Spanien, Belgien, Schweiz\n\n\n",
+        "extractedPage": "Seite 34",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nVerschiedene Untertypen an föderalen Arrangements\n§ Symmetrischer – asymmetrischer Föderalismus\n§ Symmetrisch: alle Gliedstaaten haben die gleichen Rechte\n§ Asymmetrisch: einige Gliedstaaten haben mehr Rechte als andere\n§ Kongruenter – inkongruenter Föderalismus\n§ Kongruent: Jeder Gliedstaat ist eine Miniatur des Zentralstaates \nhinsichtlich der Eigenschaften seiner Bürger\n§ Inkongruent: Die Gliedstaaten haben eine unterschiedliche \nZusammensetzung hinsichtlich Demographie, Sprachen oder Ethnien\n§ Trennföderalismus – Verbundföderalismus\n§ Trennföderalismus: Die beiden Ebenen haben klar abgegrenzte Aufgaben, \nEntscheiden über diese und implementieren diese\n§ Verbundföderalismus: Entscheidung und/oder Implementation von \nAufgaben wird durch beide Ebenen teilweise gemeinsam gemacht\n\n\n",
+        "extractedPage": "Seite 36",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDirekte Demokratie\n§ Direkte Demokratie meint die direkte Beeinflussung von \nSachfragen durch die Bevölkerung\n§ In einer repräsentativen Demokratie werden Abgeordnete \ngewählt, die im Auftrag der Wähler Sachfragen entscheiden.\n§ Direktdemokratische Instrumente haben nicht nur Einfluss auf die \neinzelne Sachfrage sondern auch auf das Verhalten der Politiker \nim repräsentativen Teil des politischen Systems\n§ In den meisten politischen Systemen finden sich \ndirektdemokratische Elemente, aber keines ist direktdemokratisch \nin Reinform\n\n\n",
+        "extractedPage": "Seite 41",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nFunktionen direkter Demokratie\n§ Kontrollfunktion\n§ Inhaltliche Entscheidungen der Repräsentanten sollen dem Willen der \nBevölkerung entsprechen\n§ Legitimationsfunktion\n§ Erhöhung der gesellschaftlichen Akzeptanz von politischen Entscheidungen \ndurch Abgabe der Entscheidung bzw. nachträgliche Legitimation\n\n\n",
+        "extractedPage": "Seite 43",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDas „Quorum“ als Begriff\n§ Im Rahmen von Referenden werden oftmals sind oftmals Quoren \nzu erfüllen. Diese können sich auf unterschiedliche Aspekte \nbeziehen:\n§ Auslösungsquorum: Mindeststimmen zur Initiierung\n§ Beteiligungsquorum: Mindestbeteiligung der Stimmberechtigten\n§ Zustimmungsquorum: Anteil der dem Vorschlag zustimmenden \nAbstimmenden oder Stimmberechtigten\n§ Quoren können absolut oder relativ angegeben sein. Im Fall des \nrelativen Quorums ist darauf zu achten, ob die Bezugsbasis die \nWahlberechtigten oder die tatsächlich Abstimmenden sind\n§ Achtung: Bezieht sich das Zustimmungsquorum auf die \nStimmberechtigten erhöht sich damit der Prozentsatz der \ntatsächlich notwenigen Stimmen auf Basis der Wahlbeteiligung\n\n\n",
+        "extractedPage": "Seite 44",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nFormen direkt-demokratischer Entscheidungen (1)\n§ Zahlreiche Klassifikationsansätze, die meist an das Modell der \nSchweiz angelehnt sind, da diese über sehr umfassende \nMöglichkeiten verfügt\n§ Die gängigste Unterscheidung stammt von Tsebelis/Hug 2002\n§ Klassifikation nach\n§ Wer löst das Referendum aus?\n§ Wer stellt die Frage?\n§ Vier Typen lassen sich identifizieren\n§ Obligatorisches Referendum (required referendum)\n§ Regierungsreferendum (veto player referendum)\n§ Fakultatives Referendum (popular veto)\n§ Volksinitiative (popular initiative)\n\n\n",
+        "extractedPage": "Seite 45",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nObligatorisches und fakultatives Referendum\n§ Wann wird ein Referendum ausgelöst und wer gewinnt es?\n§ Obligatorisch: Auslösung verpflichtend\n§ Fakultatives Referendum Auslösung:\n§ Regierung macht einen Gesetzgebungsvorschlag, der ihre Interessen \nberücksichtigt\n§ Auslösender ist mit dem Gesetzgebungsvorschlag unzufrieden und möchte \nden Status Quo erhalten\n§ Fakultatives/obligatorisches Referendum Erfolg:\n§ Je näher die Regierung an ihren Idealpunkt rückt, desto höher die \nWahrscheinlichkeit, dass sich eine Mehrheit gegen die Regierung findet (-> \nWahlsysteme verzerren ja)\n§ Regierung kann Niederlage vermeiden, wenn sie Gegner entgegen kommt \n(Autolimitation)\n\n\n",
+        "extractedPage": "Seite 47",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nEffekt des obligatorischen und des fakultativen \nReferendums\n§ Obligatorische und fakultative Referenden sind \ninnovationshemmend\n§ Politische Entscheidungen sind Risikoentscheidungen\n§ Unter vollständiger Information bei rationalem Handeln käme es nicht zu \nfakultativen Referenden, da die Regierung nur „referendumsfeste“ Gesetze \nvorschlagen würde\n§ Der politische Effekt der Referenden ist die Annäherung an den Status Quo\n§ Referenden dienen als politisches Instrument von Minderheiten \nim Gesetzgebungsprozess\n§ -> Erzeugen auch autonom Wirkung: Autolimitation\n\n\n",
+        "extractedPage": "Seite 48",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nRegierungsreferendum\n§ Wann wird ein Regierungsreferendum ausgelöst und wer gewinnt \nes?\n§ Auslösung durch Regierung\n§ Vergewisserung der öffentlichen Unterstützung\n§ Überwindung von Spannungen innerhalb der Regierungsparteien\n§ Erfolg:\n§ An sich sicher bei vollständiger Information\n§ Aber: (1) second-order election und (2) unvollständige Information\n\n\n",
+        "extractedPage": "Seite 49",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nVolksinitiative\n§ Wann wird ein Volksinitiative ausgelöst und wer gewinnt sie?\n§ Auslösung durch Bevölkerung mit unterschiedlichem Ziel:\n§ Ventil: Direkte Durchsetzung einer Forderung gegenüber Behörden\n§ Schwunggeber und Verhandlungspfand: Indirekter Erfolg bei Behörden\n§ Katalysator: Mobilisierung neuer politischer Tendenzen\n§ Wahlhelfer: Interne Mobilisierung und Selbstinszenierung\n§ Erfolg: Ähnliche Logik wie bei fakultativen Referenden: Weitere \nEntfernung vom Status Quo reduziert Befürwortung durch Wähler\n\n\n",
+        "extractedPage": "Seite 50",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nNeuer Konstitutionalismus (1)\n§ Als Begriff geprägt durch Shapiro/Stone Sweet 1994\n§ Grundtypen von Verfassungen\n§ Typ 1: Absolutistische Verfassung: Macht ist zentralisiert auf eine/wenige \nPersonen/Parteien (autoritärer Typ)\n§ Typ 2: Parlamentssouveränität: Die Verfassung etabliert die Institutionen \nund Wahlen legitimieren das Parlament (Britischer Typ)\n§ Typ 3: Verfassungssouveränität: Die Verfassung etabliert die Institutionen \nund Wahlen legitimieren das Parlament. Zusätzlich gibt es eine Reihe von \nexpliziten Grundrechten (Abwehrrechten), die die Macht des Staates \nbeschränken\n§ Globaler Trend zu Typ 3 im „New Constitutionalism“\n\n\n",
+        "extractedPage": "Seite 58",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nNeuer Konstitutionalismus (2)\n§ Elemente des neuen Konstitutionalismus\n§ Staatliche Institutionen beziehen ihre Legitimität und Macht aus der \nVerfassung\n§ Die Souveränität wird explizit der Bevölkerung (durch Wahlen) in die \nHände gelegt\n§ Staatliches Handeln muss verfassungsgemäß sein\n§ Grundrechtskatalog in der Verfassung\n§ In der Verfassung werden die Verfahren zur Änderung der Verfassung \nfestgelegt\n\n\n",
+        "extractedPage": "Seite 59",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nRegeln zur Änderungen der Verfassung: \nVerfassungsrigidität\n§ Verfassungsrigidität bezeichnet die Schwierigkeit, eine Verfassung \nzu ändern\n§ Verfassungsrigidität variiert über politische Systeme und \neinzelnen Artikeln (Aspekten) hinweg extrem\n§ Großbritannien: einfache Mehrheit durch das Parlament\n§ Dänemark: Folketing mit einfacher Mehrheit → Neuwahl → Folketing mit \neinfacher Mehrheit → Referendum mit 40% Beteiligungsquorum\n§ Deutschland: Ewigkeitsklausel in Artikel 79 III macht Grundsätze der \nArtikel 1 und 20 unabänderbar\n§ Spanien Thronfolge: Beide Kammern mit 2/3-Mehrheit → Neuwahl → \nBeide Kammern mit 2/3-Mehrheit → Referendum\n§ Die Rigidität wird meist über institutionellen Indizes erfasst und \ngenutzt, um Änderungshäufigkeiten und Längen zu erklären\n\n\n",
+        "extractedPage": "Seite 61",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nInstitutionelle und funktionale Äquivalenz\n§ Bei der vergleichbaren Erfassung von Regeln ist es schwierig, ihre \nGleichwertigkeit hinsichtlich ihrer Wirkung zu erfassen.\n§ Dieses Problem wird als Äquivalenz bezeichnet\n§ Inwiefern erzeugen unterschiedliche institutionelle Regeln die \ngleichen Wirkungen\n§ z.B. Referendum vs. zweite Kammer bei der Erfassung von \nVerfassungsrigidität\n§ Vergleichende Indizes sind fast immer mit diesem Problem \nkonfrontiert und versuchen es unterschiedlich zu erfassen\n§ Literaturhinweis: Jan van Deth (1998): Comparative Politics: The \nProblem of Equivalence\n\n\n",
+        "extractedPage": "Seite 62",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nVerfassungsgerichte als Organisation: Vorkommen\n§ In föderalen Systemen ist ein Verfassungsgericht eine \nfunktionslogische Notwendigkeit zur Regulierung von Konflikten \nzwischen Zentral- und Gliedstaat\n§ Z.B. Schweiz: Das Verfassungsgericht hat kein Recht zur Normenkontrolle \nauf Bundesebene, wohl aber zur Kontrolle kantonaler Gesetze auf ihre \nVereinbarkeit mit der Bundesverfassung\n§ BR Jugoslawien (bis 1989): Das Verfasssungsgericht hatte die Aufgabe der \nKonfliktregulierung zwischen Zentral- und Gliedstaaten wie auch unter \nden Gliedstaaten\n§ Nach diktatorischen Systemzusammenbrüchen wird oftmals ein \nVerfassungsgericht zum Schutz individueller Grundrechte \neingeführt\n\n\n",
+        "extractedPage": "Seite 67",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nVerfassungsgerichte als Organisation: Gattung und \nArten\nAmerikanisches Modell\nDeutsches-österreichisches Modell\nSupreme Court (SC)\nConstitutional Court (CC)\nMarbury vs. Madison 1803: judicial review\nHans Kelsen 1920 / 1934: positiver und \nnegativer Gesetzgeber\nCommon Law Systeme: \nRichterrecht/Gewohnheitsrecht\nCivil Law Systeme:  Kodifiziertes Recht durch \nden Gesetzgeber\nEinheitsmodell: SC ist ein oberstes Gericht in \nder regulären Rechtsprechung und nimmt \nzusätzlich die Aufgabe der Normenkontrolle \nwahr\nTrennmodell: CC ist ein Gericht, das nur für \ndie Aufgabe der Normenkontrolle konzipiert \nist\nDezentralisierte Kontrolle: Auch \nnachgeordnete Gerichte können Normen für \nnicht verfassungskonform erklären\nZentralisierte Kontrolle: Nur das \nVerfassungsgericht kann Normen für nicht \nverfassungskonform erklären\nVerfahren: konkrete Kontrolle\nVerfahren: abstrakte und konkrete Kontrolle, \nVerfassungsbeschwerde\n\n\n",
+        "extractedPage": "Seite 68",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nAufgaben von Verfassungsgerichten\n§ Normenkontrolle ist das Recht des Verfassungsgerichtes, Gesetze \nauf ihre Vereinbarkeit mit der Verfassung zu überprüfen\n§ Damit schränkt es den Spielraum von Regierung und Parlament \nein, obwohl es im Gegensatz zu diesen Akteuren nicht direkt \nlegitimiert ist\n§ Welche Rolle Verfassungsgerichte demokratietheoretisch \neinnehmen sollten, ist von jeher umstritten\n§ John Jay / Alexander Hamilton 1787/1788\n§ Emmanuel Sièyes / Antoine Thibaudeau 1795\n§ Carl Schmitt / Hans Kelsen 1929/1930\n§ Umstritten ist, ob sie benötigt werden und ob sie nur prozessuale \nFragen oder auch substantielle policy Fragen beantworten sollen\n\n\n",
+        "extractedPage": "Seite 69",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nFormen der Normenkontrolle\n§ Abstrakte Normenkontrolle\n§ Grundsätzlich Unvereinbarkeit mit höherrangigem Recht\n§ A priori: vor der Verkündung\n§ A posteriori: nach der Verkündung\n§ Klage: politische Akteure\n§ Konkrete Normenkontrolle\n§ Aktueller Fall vor Gericht nicht vereinbar mit Verfassung aus Sicht des \nverhandelnden Gerichtes\n§ Klage: Verweis durch normales Gericht an das Verfassungsgericht\n§ Verfassungsbeschwerde\n§ Individuelle Grundrechtsverletzung\n§ Klage: individueller Bürger\n\n\n",
+        "extractedPage": "Seite 70",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDie Wahl von Verfassungsrichtern\n§ Es lassen sich zwei Wahlverfahren unterscheiden\n§ Sequentielle Modelle, in denen Vorschlagsrecht und Kandidatenwahl \ngetrennt sind, z.B. US Senat\n§ Proporzmodelle, in denen mehreren Institutionen ein Anteil an Richtern \nzugestanden wird, über den Sie entscheiden.\n§ Die Mehrheitsregeln variieren zwischen absoluter Mehrheit und übergroßer \nMehrheit\n§ Fast alle Länder verlangen von den Richtern berufliche \nMindestanforderungen\n§ Qualifikation für das Richteramt, Mindestalter, Berufserfahrung etc. \n§ Ausnahmen: Frankreich und USA\n\n\n",
+        "extractedPage": "Seite 71",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nWie einflussreich sind Verfassungsgerichte? \n§ Bisher wurden nur wenige Versuche unternommen, die Stärke \neines Verfassungsgerichtes vergleichend zu erfassen und somit die \nJustizialisierung eines politischen Systems\n§ Wie intensiv ist die Aktivität von Verfassungsgerichten im \ninternationalen Vergleich?\n§ Lijphart-Skala (Lijpahrt 2012: Patterns of Democracy)\n§ Alivizatos-Skala (Alivizatos 1995: Judges as Veto Players)\n\n\n",
+        "extractedPage": "Seite 72",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nLegale und extralegale Variablen zur Erklärung des \nEntscheidungsverhaltens\nJuristisches (legales) Modell\n§\nUrteile werden auf Basis rechtlicher \nErwägungen gefällt\n§ Juristischen Erkenntnisregeln \n§ Relevanz- und Diskursregeln \n§\nNormative Überlegungen\n§\nPositivistisches Forschung als \nneuerer Ansatz: mechanisches \nModell mit einer richtigen Lösung\n§\nHäufig post-hoc Modelle\nSozialwissenschaftliches \n(extralegales) Modell\n§\nInterne Entscheidungsfindung\n§ Verhältnis zu anderen Institutionen\n§ Besetzungsverfahren etc.\n§ Zusammensetzung anderer \nInstitutionen\n§ Öffentliche Meinung\n§\nBasieren auf behavioralistischen \nModellen\n§\nRational Choice Modelle als \nWeiterentwicklung\n§\nPrädiktionsmodelle\n\n\n",
+        "extractedPage": "Seite 76",
+        "extractedSession": "Sitzung 7",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_7_Veto.pdf",
+        "ectractLectureName": "Sitzung_7_Veto.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nGrundtypen von Wahlsystemen und ihre Unterformen\n\n\nWahlsysteme\nVerhältnis-\nwahl\nMehrheits-\nwahl\nGemischte \nTypen\nRelative Mehrheit\nAbsolute Mehrheit/2-Runde\nAlternative Vote (AV)\nMehrpersonenwahlkreise (SNTV)\n____________\nSupplementary Vote\nBorda Count\nParty Vote \nBlock Vote\nListensysteme\nSingle Transferable Vote\nGrabensysteme \n(unabhängige)\nKompensatorische \nSysteme (abhängige)\n",
+        "extractedPage": "Seite 16",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nWahlkreisgröße M\n§ M bezeichnet die Wahlkreisgröße „District Magnitude“: Zahl der \nAbgeordneten im Wahlkreis\n§ Mit Veränderung der Wahlkreisgröße kann man sich von einem \nMehrheits- zu einem Verhältniswahlsystem bewegen\n§ Mehrheitswahl: Ein Wahlkreis pro Abgeordneter M=1\n§ Verhältniswahl: Ein nationaler Wahlkreis für alle Abgeordneten M=N\n\n\nM=1\nReine Mehrheitswahl\nM=N\nReine Verhältniswahl\n",
+        "extractedPage": "Seite 17",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nZiele und Anwendungsbereiche unterschiedlicher \nWahlsysteme\nMehrheitswahl\n§ Ziel: Repräsentation der \nMehrheit im Wahlkreis und \nklare Mehrheiten \n§ Geringe Proportionalität bei \nder Übersetzung von Stimmen \nund Mandaten\n§ Erzeugt große Mehrheiten\nVerhältniswahl\n§ Ziel: Exakte Abbildung des \nWählerwillens auf nationaler \nEbene\n§ Hohe Proportionalität bei der \nÜbersetzung von Stimmen \nund Mandaten\n§ Erzeugt mehr Parteien\n\n\n",
+        "extractedPage": "Seite 18",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nVorkommen von Wahlsystemtypen in Europa\n§ Mehrheitswahl: Frankreich, UK\n§ Verhältniswahl: Österreich, Belgien, Zypern, Tschechien, \nDänemark, Estland, Finnland, Griechenland, Island, Litauen, \nLuxemburg, Niederlande, Norwegen, Polen, Portugal, Slowakei, \nSlowenien, Spanien, Schweden, Schweiz\n§ Verhältniswahl STV Systeme: Irland, Malta\n§ Gemischte (nur kompensatorische) Systeme: Deutschland, Ungarn, \nItalien, Litauen\n\n\n",
+        "extractedPage": "Seite 19",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nMehrheitswahlrecht (1): Relatives Mehrheitswahlrecht\n§ Grundidee: Pro Wahlkreis wird je 1 Abgeordneter gewählt. Das \nParlament setzt sich aus den Abgeordneten der Einerwahlkreise \nzusammen\n§ Wahlkreiszahl M = 1\n§ Relative Mehrheit genügt, um den Sitz zu gewinnen\n§ Name: Plurality, Single Member Plurality (SMP), Single Member \nDistrict Plurality (SMDP), First Past The Post (FPTP), \nAngelsächsisches Mehrheitswahlrecht\n§ Beispiel: UK\n\n\n",
+        "extractedPage": "Seite 22",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nBewertung der Effekte des relativen \nMehrheitswahlrechts\nVorteile\n§\nKlarheit des Systems\n§\nVerantwortlichkeit des \nAbgeordneten gegenüber Wähler\n§\nGroße Regierungsmehrheiten\nNachteile\n§\nGeringe Repräsentativität / Hohe \nDisproportionalität\n§ In Wahlkreisen\n§ Auf Systemebene\n§\nStrategisches Wählen bei \nAnhängern kleinerer Parteien\n§\nBildung von regionalen Hochburgen \nnach Sprache oder Ethnie\n§\nKleine Wählerwanderungen können \nstarke Effekte auf die Sitzverteilung \nhaben\n\n\n",
+        "extractedPage": "Seite 28",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nVariationsmöglichkeiten im Mehrheitswahlrecht\n§ Im Mehrheitswahlrecht können verschiedene Variationen \nvorgenommen werden, die das Ergebnis beeinflussen\n§ Zahl der Runden: Eine Runde vs. Zwei Runden (Two Round)\n§ Art des Votums: Stimme vs. Präferenzreihung (Alternative Vote)\n§ Zahl der Abgeordneten im Wahlkreis: Einer vs. Mehrere (SNTV)\n§ Zahl der Stimmen im Wahlkreis: Eine vs. Mehrere (Block Vote)\n§ Wahlkreiszuschnitt (Gerrymandering)\n\n\n",
+        "extractedPage": "Seite 29",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nMehrheitswahlrecht (2): Zwei-Runden \nMehrheitswahlrecht\n§ Grundidee: Pro Wahlkreis wird je 1 Abgeordneter gewählt. Das \nParlament setzt sich aus den Abgeordneten der Einerwahlkreise \nzusammen\n§ Wahlkreiszahl = 1\n§ Wird diese nicht erreicht kommt es zur Stichwahl (zwei Runden)\n§ Version 1: Zwei Runden und absolute Mehrheit in der Stichwahl (nur beste \nKandidaten der ersten Runde)\n§ Version 2: Zwei Runden und relative Mehrheit in der Stichwahl\n§ Namen: Romanisches Mehrheitswahlrecht, Absolute \nMehrheitswahl\n§ Beispiel: Frankreich\n\n\n",
+        "extractedPage": "Seite 30",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nMehrheitswahlrecht (3): Alternative Vote\n§ Grundidee: \n§ Einerwahlkreise wie im relativen und absoluten Mehrheitswahlrecht\n§ Es handelt sich um ein kandidatenzentriertes Präferenzwahlverfahren\n§ Auf dem Stimmzettel wird eine Präferenzreihenfolge für mehrere \nKandidaten angegeben\n§ Der Kandidaten mit niedrigsten Erstpräferenzstimmzahlen wird \neliminiert. Bei den für ihn abgegebenen Wahlzettel wird die \nZweitpräferenz für die verbleibenden Kandidaten gewertet\n§ Untertypen\n§ Full preferential system: Der Wähler erstellt ein Ranking aller Kandidaten\n§ Optional preferential system: Der Wähler erstellt nur ein Ranking der \nKandidaten, die er für wählbar hält\n§ Name: Alternative Vote, Instant Run-off\n§ Beispiel: Australien\n\n\n",
+        "extractedPage": "Seite 33",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nMehrheitswahlrecht (4): Single Non Transferable Vote\n§ Mehrere Abgeordnete werden pro Wahlkreis gewählt, jeder \nWähler hat aber nur eine Stimme\n§ Gewählt sind die Kandidaten mit den meisten Stimmen\n§ Bei Erreichung der Mindeststimmenzahl 1/(N+1) ist ein Sitz \ngarantiert, wobei N die Zahl der Abgeordneten ist\n§ Name: SNTV (Single Non Transferable Vote)\n§ Länder: Japan bis 1994, Taiwan bis 2005\n\n\n",
+        "extractedPage": "Seite 36",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nGerrymandering (1)\n§ Als Gerrymandering wird der gezielte Wahlkreiszuschnitt zur \nSchaffung von Mehrheiten bezeichnet\n§ Durch Unterteilung einer Verteilung der Stimmen einer Region in \nkleinere Wahlkreise können Mehrheiten in den Wahlkreisen \ngeschaffen oder zerstört werden\n§ Dieses Phänomen tritt bei Mehrheitswahl auf\n§ Benannt wurde dieses Phänomen nach dem Gouverneur von \nMassachusetts – Elbridge Gerry – der 1812 einen Wahlkreis in \nEssex County so zuschnitt, dass es die Demokraten begünstigte\n§ Der Wahlkreis wurde als Salamander interpretiert und mit seinem \nNachnamen vermengt\n\n\n",
+        "extractedPage": "Seite 41",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nVerhältniswahlrecht (1): Listenwahlsysteme\n§ Grundidee\n§ Die Sitzanzahl steht in proportionalem Verhältnis zur Stimmanzahl\n§ Eigenschaften\n§ Mehrpersonenwahlkreise \n§ Stimmverrechnung divisor- oder quotenbasiert\n§ Name: Proportional Representation\n§ Anhand verschiedener Variablen lassen sich Listenwahlsysteme \nstärker majorisieren oder proportionalisieren!\n\n\n",
+        "extractedPage": "Seite 44",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nBewertung der Effekte Listenwahlsysteme\nVorteile\n§\nGenaue Übersetzung der \nWählerpräferenzen in Sitze\n§\nKeine „manufactured majorities“\n§\nGute Minderheitenrepräsentation, \ninsbesondere bei zersplitterten \nGesellschaften (teilweise umstritten)\nNachteile\n§\nParteienzersplitterung\n§\nExtremistische Parteien sind öfter \nrepräsentiert\n§\nFördern Koalitions- und \nMinderheitsregierungen\n\n\n",
+        "extractedPage": "Seite 46",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nVariationsmöglichkeiten im Verhältniswahlrecht\n§ Im Verhältniswahlrecht können verschiedene Variationen \nvorgenommen werden, die das Ergebnis beeinflussen\n§ Wahlkreisgröße (District Magnitude M) \n§ Verrechnungsebenen (Electoral Tier)\n§ Wahlhürden (Thresholds)\n§ Wahlformeln (Quote vs. Divisor)\n§ Kandidatennominierung (offene / geschlossene Liste)\n§ Präferenzreihung statt Stimmen (STV)\n\n\n",
+        "extractedPage": "Seite 47",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nÜbergänge - Wahlkreisgröße und Verrechnungsebene\n§ Wahlkreisgröße (district mangnitude)\n§ District Magnitude (M) = Anzahl von Abgeordneten im Wahlkreis\n§ Je größer M ist, desto proportionaler ist die Sitzverteilung auf die einzelnen \nParteien\n§ Verrechnungsebene (electoral tier)\n§ Übriggebliebene Stimmen aus der eigentlichen Wahl in den Wahlkreisen \nwerden in einer zweiten Runde auf die Parteien verrechnet\n§ Mit zweiter Verrechnungsebene wird Disproportionalität ausgeglichen \n\n\n",
+        "extractedPage": "Seite 48",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nÜbergänge - Explizite Wahlhürden (thresholds)\n§ Parteien müssen bestimmte Hürden erreichen, nur dann erhalten \nsie Sitze im Parlament\n§ Zielsetzung: Begrenzung des Grades der Proportionalität, kleine \nParteien werden benachteiligt\n§ Üblicherweise: zwischen 1% und 5% der nationalen Stimmenzahl, \nWahlbündnisse manchmal mehr\n\n\n",
+        "extractedPage": "Seite 49",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nÜbergänge – Wahlformeln\n§ Wahlformeln dienen zur Umrechnung von Stimmen in Sitze\n§ Es lassen sich folgende Grundtypen unterscheiden\n§\nQuotenverfahren: Hare-Niemeyer, Hagenbach-Bischoff, Droop, Imperiali\n§\nDivisorverfahren: D‘Hondt, Saint-Lague, modifiziertes Saint-Lague\n\n\n",
+        "extractedPage": "Seite 50",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nÜbergänge – Wahlformeln: Quotenverfahren (1)\n§ Bei einem Quotenverfahren garantiert die Erreichung einer \nbestimmten Stimmzahl einen Parlamentssitz\n§ Grundsätzlich berechnet sich die Quote wie folgt:\n§\nQ: Quote\n§\nn: Quotenzahl (siehe folgende Folien)\n§\nV: Zahl der gültigen Stimmen\n§\nd: Wahlkreis\n§\nM: Zahl der Mandate\n\n\nQ(n) =\nVd\nMd + n\n",
+        "extractedPage": "Seite 51",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nÜbergänge – Wahlformeln: Quotenverfahren (2)\n§ Die Quotenverfahren berechnen sich leicht unterschiedlich. Es \nvariiert die Quotenzahl (und damit der Nenner der Gleichung)\n§ Hare-Niemeyer, n=0\n§ Hagenbach-Bischoff, n=1\n§ Droop, entspricht Hagenbach-Bischoff plus 1 ohne Dezimalzahlen (immer \naufrunden)\n§ Imperiali, n=2\n§ Verstärktes Imperiali, n=3\n\n\n",
+        "extractedPage": "Seite 52",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nÜbergänge – Wahlformeln: Quotenverfahren (3)\n§\nBeispiel\n§ 10 Mandate M\n§ 1 Wahlkreis d\n§ 100.000 gültige Stimmen V\n§\nHare-Niemeyer = 100.000/10 → 1 Mandat pro 10.000 Stimmen\n§\nHagenbach-Bischoff = 100.000/(10+1) → 1 Mandat pro 9.090,9 Stimmen\n§\nDroop =  9.090,9 plus 1 ohne Dezimal → 1 Mandat pro 9.091 Stimmen\n§\nImperiali = 100.000/(10+2) → 1 Mandat pro 8.333,3 Stimmen\n§\nVerstärktes Imperiali = 100.000/(10+3) → 1 Mandat pro 7.692 Stimmen\n\n\n",
+        "extractedPage": "Seite 53",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nÜbergänge – Wahlformeln: Quotenverfahren (4)\n§ Bei den Quoten verbleiben immer Stimmreste (Stimmen, die \nweniger als die Quote für einen Sitz ausmachen)\n§ Die Stimmreste können nach folgenden folgenden Verfahren in \nMandate umgewandelt werden\n§ Größter Rest: Nach Vergabe der automatischen Sitze nach Quote werden \nnoch nicht vergebene Sitze an die Parteien mit größten Resten vergeben\n§ Höchster Durchschnitt: Nach Vergabe der automatischen Sitze nach Quote \nwerden noch nicht vergebenen Sitze verteilt, indem die \nGesamtstimmenzahl durch die vergebenen Sitze geteilt und an die Parteien \nmit dem größten Durchschnitt vergeben\n\n\n",
+        "extractedPage": "Seite 54",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nÜbergänge – Wahlformeln: Quotenverfahren (5), \nBeispiel Hare-Niemeyer mit größtem Rest\nPartei\nA\nB\nC\nD\nE\nF\nGesamt\nStimmen\n47.000\n16.000\n15.800\n12.000\n6.100\n3.100\n100.000\nSitze\n10\nQuote\n10.000\nStimmen \n/Quote\n4.7\n1.6\n1.58\n1.2\n0.61\n0.31\nQuotensitze\n4\n1\n1\n1\n0\n0\n7\nReststimmen\n0.7\n0.6\n0.58\n0.2\n0.61\n0.31\nRestliche Sitze\n1\n1\n0\n0\n1\n0\n3\nSitze insgesamt\n5\n2\n1\n1\n1\n0\n10\n\n\nDie verbleibenden 3 Sitze (nach Zuteilung der Quotensitze) werden an die Parteien mit dem \ngrößten Rest vergeben\n",
+        "extractedPage": "Seite 55",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nÜbergänge – Wahlformeln: Divisorverfahren (1)\n§ Divisorverfahren (größte Durchschnitte) vergeben Mandate nach \neinem Divisionsprozess der Reihe nach an die höchsten Divisoren \nbis alle Mandate vergeben sind\n§ Die Divisorenreihen unterscheiden sich je nach Verfahren\n§ (Viktor) d‘Hondt: Divisorenreihe: 1, 2, 3, 4, etc.\n§ (André) Saint-Lague: Divisorenreihe: 1, 3, 5, 7, etc. \n§ (Modifiziertes) Saint-Lague: Divisorenreihe: 1.4, 3, 5, 7 etc.\n\n\n",
+        "extractedPage": "Seite 57",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nProportionalität der Verfahren\n§ Hare Größter Rest\n§ Droop Größter Rest\n§ Saint-Lague \n§ Imperiali Größter Rest\n§ Modifiziertes Saint-Lague\n§ D‘Hondt\n§ Imperiali Höchster Durchschnitt\n\n\nProportionalität\n",
+        "extractedPage": "Seite 59",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nÜbergänge – Kandidatenauswahl\n§\nZentrale Frage: Welche der Kandidaten auf der Liste erhalten die Mandate, die der \nPartei zugesprochen wurden\n§\nDrei Möglichkeiten\n§\n(1) starre Liste (nonpreferential, closed, blocked list): Parteigremien entscheiden Reihenfolge \nauf der Liste (Beispiel: Portugal)\n§\n(2) lose gebundene Liste: Liste ist durch Parteigremien vorstrukturiert, aber die Wähler \nkönnen die Reihenfolge mehr oder weniger leicht umwerfen (Beispiel: Estland)\n§\n(3) freie Liste (preferential, open, unblocked list): Wähler entscheiden frei, welche Kandidaten \ngewählt werden\n§\n(a) nur innerhalb der Parteilisten, z.B. Finnland\n§\n(b) auch über Parteien hinweg („Panachieren“) à z.B. Luxemburg, Schweiz) \n§\ndie relative Macht von Parteiführungen und einzelnen Kandidaten ist auch zentral für \ndie letzte Dimension, entlang derer man Verhältniswahlsysteme mit Listen \nunterscheiden\n\n\n",
+        "extractedPage": "Seite 60",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nVerhältniswahlsysteme (1): System der übertragbaren \nEinzelstimmgebung (STV)\n§ STV ist die Verhältniswahl-Variante von Alternative Vote\n§ Wähler erstellen ein Ranking von so vielen Kandidaten wie ihnen lieb ist\n§ Erfüllt ein Kandidat eine bestimmte Quote (Droop quota) ist er oder sie \ngewählt und die verbleibenden Stimmen werden wiederum auf die noch \nnicht gewählten Kandidaten entsprechend der nachfolgenden Präferenzen \numverteilt\n§\nSTV ist die individualisierte Variante der Verhältniswahl\n§ Sie geht nicht von Parteien aus; auf dem Stimmzettel sind Partei- und \nEinzelbewerber alphabetisch aufgeführt\n\n\n",
+        "extractedPage": "Seite 61",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nGemischte / kombinierte Wahlsysteme (1): Unabhängige \nSysteme\n§ Grundidee:\n§ Teil der Abgeordneten werden direkt gewählt, Teil der Abgeordneten \nüber eine Liste nach Verhältniswahl\n§ Mehrheitswahl und Verhältniswahl nach Listen sind völlig getrennt\n§ Getrennte Teilwahlergebnisse werden zu einem Gesamtergebnis aggregiert, \nohne das eine Kompensation stattfindet\n§ Die Wahlkreise beider Ebenen sind also „primäre“ Wahlkreise\n§ Beispiel: Litauen\n§ Name: parallele, segmentierte oder Graben-Systeme\n\n\n",
+        "extractedPage": "Seite 65",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nGemischte / kombinierte Wahlsysteme (1): Unabhängige \nSysteme an einem theoretischen Beispiel\nUmsetzung von Stimmanteile in Sitzanteile\nStimmen in Einerwahlkreisen\nStimmen\nGewonnene Sitze\nWahlkrei\ns\n1\n2\n3\n4\n5\nNational\ne Liste\n% \nStimmen\nDirekt\nListe\nGesamt\nPartei A\n3000\n3000\n3000\n3000\n3000\n15000\n60\n5\n3\n8\nPartei B\n2000\n2000\n2000\n2000\n2000\n10000\n40\n0\n2\n2\nGesamt\n5000\n5000\n5000\n5000\n5000\n25000\n100\n5\n5\n10\n\n\n§\nBei einem unabhängigen System werden beide Teile – nationale Listenwahl \nund Direktwahl (hier in 5 Wahlkreisen)  – unabhängig voneinander \ndurchgeführt\n§\nDie Teilergebnisse der beiden Wahlen werden einfach aufsummiert.\n",
+        "extractedPage": "Seite 66",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nGemischte / kombinierte Wahlsysteme (2): Abhängige \nSysteme\n§ Grundidee:\n§ Teil der Abgeordneten werden direkt gewählt, Teil der Abgeordneten über \neine Liste nach Verhältniswahl\n§ Listenmandate kompensieren also die durch Einerwahlkreise entstehende\nDisproportionalität\n§ Aber: es findet eine Verrechnung der beiden Teilsysteme statt\n§ Jeder Wähler hat zwei Stimmen: Eine für die Direktwahl, eine für \ndie Listenwahl\n§ Listenmandate stellen sicher, dass die Gesamtzahl der Sitze einer \nPartei proportional zu ihrem landesweiten Stimmenanteil ist\n§ Name: Kompensatorische Systeme\n§ Beispiel: Deutschland\n\n\n",
+        "extractedPage": "Seite 67",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nGemischte / kombinierte Wahlsysteme (2): Abhängige \nSysteme an einem theoretischen Beispiel\nUmsetzung von Stimmanteile in Sitzanteile\nStimmen in Einerwahlkreisen\nStimmen\nGewonnene Sitze\nWahlkrei\ns\n1\n2\n3\n4\n5\nNational\ne Liste\n% \nStimmen\nDirekt\nListe\nGesamt\nPartei A\n3000\n3000\n3000\n3000\n3000\n15000\n60\n5\n1\n6\nPartei B\n2000\n2000\n2000\n2000\n2000\n10000\n40\n0\n4\n4\nGesamt\n5000\n5000\n5000\n5000\n5000\n25000\n100\n5\n5\n10\n\n\n§\nBei einem abhängigen System werden beide Teile – nationale Listenwahl und \nDirektwahl (hier in 5 Wahlkreisen)  – unabhängig voneinander durchgeführt\n§\nGrundsätzlich orientiert sich das Gesamtergebnis am Listenergebnis. \nEntsprechend der Verteilung des Gesamtergebnisses werden zuerst die \nDirektmandate vergeben und dann mit Listenmandaten aufgefüllt\n§\nDas System ist stärker kandidatenorientiert, jedoch vom Ergebnis her \nproportional\n",
+        "extractedPage": "Seite 68",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nÜberhangmandate\n§ Das abhängige System kann so genannte Überhangmandate \nerzeugen\n§ Dies ist immer dann der Fall, wenn eine Partei mehr Mandate \nüber die Direktwahl gewinnt, als ihr rechnerisch entsprechend der \nGesamtverteilung zustehen würde\n§ Überhangmandate treten insbesondere dann auf, wenn eine \nPartei viele Direktmandate in einem Mehrparteiensystem gewinnt\n§ Überhangmandate fördern die Disproportinalität\n\n\n",
+        "extractedPage": "Seite 69",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nÜberhangmandate an einem theoretischen Beispiel\nUmsetzung von Stimmanteile in Sitzanteile\nStimmen in Einerwahlkreisen\nStimmen\nGewonnene Sitze\nWahlkrei\ns\n1\n2\n3\n4\n5\nNational\ne Liste\n% \nStimmen\nDirekt\nListe\nGesamt\nPartei A\n3000\n3000\n3000\n3000\n3000\n15000\n40\n5\n0\n5\nPartei B\n2250\n2250\n2250\n2250\n2250\n11250\n30\n0\n3\n3\nPartei C\n2250\n2250\n2250\n2250\n2250\n11250\n30\n0\n3\n3\nGesamt\n7500\n7500\n7500\n7500\n7500\n37500\n100\n5\n6\n10+1\n\n\n§\nIn diesem Beispiele stehen an sich 10 nationale Mandate zur Verfügung\n§\nPartei A steht nach der Prozentverteilung 4 Mandate zu, sie gewinnt jedoch \nüber die Direktwahl bereits 5 Mandate. Damit entsteht ein Überhangmandat\n§\nÜberhangmandate können zu einer Verschiebung des Ergebnisses führen. Diese \nbevorzugen tendenziell große Parteien\n",
+        "extractedPage": "Seite 70",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nWahlsysteme und Proportionalität (1)\n§ Die Annahmen über die Proportionalität von Wahlsystemen \nsollte sich auch in systematischen empirischen Vergleichen \nzeigen lassen\n§ Dazu bedarf es eines einheitlichen Indikators: ein sehr häufig \nverwandter Index für die Disproportionalität eines Wahlsystems \nist der „Gallagher-Index“ \n§ die Disproportionalität für Partei i ist Differenz zwischen \nihrem Anteil an Wählerstimmen (vi) und ihrem Anteil an \nMandaten (si). \n§ diese Differenzen werden quadriert, um große \nAbweichungen stärker zu gewichten, und summiert\n§ Kann für im inklusive oder exklusive von nicht im Parlament \nvertretenen Fraktionen berechnet werden\n\n\n",
+        "extractedPage": "Seite 73",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nWahlsysteme und Proportionalität (2)\n§ Index geht von 0 (vollständige Proportionalität) zu 100 \n(vollständige Disproportionalität)\n§ Formel:\n \n \n \n2)\n(\n2\n1å\n-\n=\ni\ni\ns\nv\nG\n\n\n",
+        "extractedPage": "Seite 74",
+        "extractedSession": "Sitzung 8",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_8_Wahlen.pdf",
+        "ectractLectureName": "Sitzung_8_Wahlen.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nMethodologischer Individualismus\n§ Kulturforschung nutzt das Mikro-Makro-Modell des \nmethodologischen Individualismus\n§ Definition hebt auf das Kollektiv ab, die politische Kulturforschung hebt \naber am Individuum an\n§ Einstellungen werden typischerweise auf Ebene des Individuums erhoben \nund dann für eine Gruppe aufaggregiert\n§ Das Modell des methodologischen Individualismus hilft, diese zwei Ebenen \nzu verbinden (siehe \n\nSitzung 9\n",
+        "extractedPage": "Seite 11",
+        "extractedSession": "Sitzung zu Handlungstheorie)",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDrei Grundtypen politischer Kultur\n§ Almond und Verba identifizieren \ndrei Grundtypen politischer Kultur\n§ Parochial Culture: Clancultur. Bürger \nfühlen sich dem Staat und der Regierung \nnicht zugehörig und nehmen am \nEntscheidungsprozess auch nicht Teil\n§ Subject Culture: Untertanenkultur. \nBürger sehen sich als Mitglieder des \nStaates und dessen Untertanen; sie \nnehmen am Entscheidungsprozess nicht \nteil\n§ Participation Culture: Partizipative \nKultur. Bürger sehen sich als Träger des \npolitischen Systems und nehmen am \nEntscheidungsprozess teil\n\n\n",
+        "extractedPage": "Seite 13",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nCivic Culture Studie\n§ Almond, Gabriel A. /Verba, Sidney, 1963: The Civic Culture. \nNewbury Park: Sage \n§ Klassiker der politischen Kulturforschung\n§ Untersucht die bürgerschaftliche Kultur in zwei alten (USA, UK) \nund zwei neuen Demokratien (D, ITA)\n§ Grundidee: eine partizipative Kultur ist für die Stabilität einer \nDemokratie erforderlich\n\n\nParochial Culture\nSubject Culture\nParticipation Culture\nDemocratic Stability\nCivic Culture\n",
+        "extractedPage": "Seite 14",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nZwei Grundmodelle der Identifikation von Bürgern mit \ndem politischen System\nAllegiance model\n(eher repräsentativ)\n§\nDavid Easton 1965 \n§\nBürger unterstützen einzelne Policy \nEntscheidungen (specific support)\n§\nSpecific support akkumuliert sich \nüber Zeit\n§\nBürger unterstützen das politische \nSystem über eine affektive \nZuneigung (diffuse support)\n§\nDer Bürger ist klassisch \nrepräsentativ beteiligt und konkrete \nEntscheidungen eher elitegetrieben\nAssertive model\n(repräsentativ und direkt)\n§\nRonald Inglehart 1977\n§\nBürger unterstützen das politische \nSystem, wollen aber auch bei \nspezifischen Entscheidungen \npartizipieren. \n§\nSie haben die Fähigkeiten und die \nMotivation zur Partizipation\n§\nEmpirische Befunde zeigen eine \nkritischere Haltung gegenüber \nPolitikern und dem System\n\n\n",
+        "extractedPage": "Seite 17",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDiffuser und spezifischer Support\nUnerwünschte \nEntscheidung\n(spezifischer \nSupport \nfür policy)\nErwünschte\nEntscheidungen\n(spezifischer Support \nfür policy)\nDiffuse Unterstützung für die Institution erhöht oder senkt sich \nakkumuliert über spezifische Unterstützung für Entscheidungen\nAllgemeine \nUnterstützung \nFür die Institution\n(diffus)\nZeit\n\n\n",
+        "extractedPage": "Seite 18",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDie Rolle von Sozialkapital\n§ Mancur Olson (1965) geht davon aus, dass Kooperation oft nicht \nlohnt\n§ Ein Gegenargument wird über Sozialkapital gemacht: Verfügt eine \nGruppe über genügend soziales Kapital, kooperiert sie dennoch\n§ Bekanntestes Werk zu Sozialkapital: Robert Putnam (1993), \nMaking democracy work. Civic traditions in modern Italy\n§ Putnam untersucht Föderalismusreformen in Italien in den \n1970ern. Diese funktioniert im Norden, aber nicht im Süden. \n§ Frage: Warum finden sich diese Unterschiede? \n§ Zentrales Argument: Der Norden verfügt aus historischen Gründen über mehr \nSozialkapital. Das Chaos des mittelalterlichen Italiens wurde im Süden durch \nStärkung des Königs, im Norden durch Selbstregierung starker, kooperierender \nStadtstaaten überwunden\n\n\n",
+        "extractedPage": "Seite 19",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nElemente und Mechanismen des Sozialkapitals nach \nPutnam\n§\nBy „social capital“ I mean features of social life - networks, norms, and trust - \nthat enable participants to act together more effectively to pursue shared \nobjectives. [...] Social capital. in short, refers to social connections and the \nattendant norms and trust.“\n§\nWesentliche Bestandteile des Sozialkapitals\n1.\nVertrauen in andere Personen (trust)\n2.\nNorm der Gegenseitigkeit (reciprocity)\n3.\nSoziale Netzwerke (social networks)\n§\nWird durch alltägliche Handlungen generiert\n§\nSozialkapital ermöglicht Kooperation in einer Gesellschaft und erzeugt \nkollektiven und politischen Nutzen\n§\nVereinen und anderen sozialen Gruppierungen spielen die zentrale Rolle bei der \nSozialkapitalbildung\n\n\n",
+        "extractedPage": "Seite 20",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nCleavage-Konzept von Stein Rokkan und Martin Lipset\n§ Stein Rokkan und Seymour Martin Lipset (1967): Cleavage \nStructures, Party Systems and Voter Alignments\n§ Ziel: Makrosoziologische Erklärung der Unterschiede von \nParteiensystemen in Westeuropa\n§ Generelle Idee: wichtige gesellschaftliche Konflikt- oder \nSpaltungslinien, entlang derer sich Parteienwettbewerb \nstrukturiert\n§ Spaltungsstrukturen: Funktionale Cleavages und territoriale \nZentrum-Peripherie-Strukturen\n\n\n",
+        "extractedPage": "Seite 22",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nGrundsätzlicher Mechanismus hinter dem entstehen von \nCleavages\n§ Die grundsätzliche Idee ist, dass Konflikte in einer Gesellschaft \neingefroren sind\n§ In kritischen Phasen (critical junctures), in denen Gesellschaften \nmit neuen Herausforderungen konfrontiert sind, werden die \nbestehenden Strukturen aufgebrochen (unfreezing)\n§ Z.B. neuen Religion: Protestantismus\n§ Z.B. neue Arbeitsverteilung: Industrialisierung\n§ Ob die neuen Konflikte sich manifestieren, hängt davon ab, ob \ndiese erfolgreich durch Organisationen (Parteien, Gruppen) \nbesetzt werden.\n§ Dann frieren diese diese wieder ein (freezing) bis zum nächsten \nKonflikt\n\n\n",
+        "extractedPage": "Seite 23",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nWas sind Cleavages? (2)\nErstes Kriterium\n§ Ein Cleavage trennt Menschen, die sich durch zentrale \nsozialstrukturelle Charakteristika unterscheiden, z.B. Beruf, Status \noder Religion\n§ Konfliktlinie zwischen Arbeit und Kapital ist ein Cleavage, ebenso \nKonfliktlinie zwischen Katholiken und Protestanten\n§ Konfliktlinie zwischen Anhängern und Gegnern der Kernkraft ist kein \nCleavage\n\n\n",
+        "extractedPage": "Seite 24",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nWas sind Cleavages? (3)\nZweites Kriterium\n§ Die Gruppen, die durch eine Cleavage getrennt werden, müssen \nsich ihrer kollektiven Identität bewusst sein; sie müssen sich \nselbst als Gruppe sehen\n§ Arbeitnehmer und Arbeitgeber haben z.B. eine entsprechende kollektive \nIdentität\n§ Frauen und Männern fehlt diese kollektive Identität als Gruppe → dieser \nKonflikt ist nach verbreiteter Auffassung keine Spaltungslinie im Sinne von \nLipset und Rokkan\n\n\n",
+        "extractedPage": "Seite 25",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nWas sind Cleavages? (4)\nDrittes Kriterium\n§ Ein Cleavage muss einen organisatorischen Ausdruck finden, \ntypischerweise als Aktivität von Gewerkschaften, Kirchen oder \npolitischen Parteien \n§ Beispiel: Nationalitätenkonflikte in Großbritannien\n§ In Irland ist dies vor allem vor Unabhängigkeit und auch noch danach die \nwichtige Spaltungslinie in Gesellschaft und Parteien\n§ In Nordirland ist dies die zentrale Spaltungslinie \n§ Schottischer und walisischer Nationalismus hat lange nur sporadisch \norganisatorischen Ausdruck gefunden → kein oder „schlafender“ Cleavage\n\n\n",
+        "extractedPage": "Seite 26",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nWas sind Cleavages? (5)\n§ Die drei Kriterien tragen dazu bei, dass eine Konfliktlinie \ndauerhaft ist statt nur für eine begrenzte Periode vorhanden zu \nsein\n§ Manche Autoren unterscheiden deshalb zwischen dauerhaften \nKonfliktlinien (cleavages) und weniger dauerhaften (divides)\n§ Man kann Konfliktlinien (cleavages und divides) auch danach \nunterscheiden, inwieweit sie wirklich die Interaktion zwischen \nden Parteien beeinflussen oder nur noch auf der Ebene der \nWähler die Identifikation mit Parteien beeinflussen\n\n\n",
+        "extractedPage": "Seite 27",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDie traditionellen Cleavages (1)\n§ Lipset und Rokkan (1967) unterscheiden vier traditionelle \nCleavages, die aus den „nationalen“ und „industriellen“ \nRevolutionen entstanden sind:\n§ Nationale Revolutionen des 18. und 19. Jahrhunderts\n1.\nZentrum-Peripherie\n§ Zentrale Eliten versus abhängige ethnische, sprachliche oder religiöse Gruppen\n§ Regionalparteien, sprachliche gebundene Parteien \n2.\nStaat-Kirche\n§ Laizistischer Staat versus konfessionell gebundene Bevölkerungsgruppen sowie \nkonkurrierende Religionsgemeinschaften\n§ Insb. Christdemokratische Parteien\n\n\n",
+        "extractedPage": "Seite 28",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDie traditionellen Cleavages (2)\n§ Industrielle Revolution\n3.\nStadt-Land\n§ Landwirtschaft/Industrie bzw. Stadt/Land\n§ Städtische versus ländliche Bevölkerungsgruppen à liberale und konservative \nParteien (sowie Bauernparteien)\n4.\nArbeit-Kapital\n§ Unternehmer versus Arbeiter\n§ Sozialdemokratische, sozialistische und kommunistische Parteien\n\n\n",
+        "extractedPage": "Seite 29",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDie traditionellen Cleavages (3)\n§ Länder unterscheiden sich darin, welche Rolle Cleavages spielen\n§ Cleavages existieren nicht in allen Ländern\n§ z.B. Stadt/Land → in Großbritannien und Deutschland keine große \nBedeutung, in Skandinavien aber eigenständige Bauernparteien \n(„Zentrumsparteien“)\n§ Die konkrete Ausprägung mancher Cleavages variiert \n§ Klassen-Cleavage mit Abstand am wichtigsten und in allen (westlichen, \nentwickelten) Ländern vorhanden\n§ In manchen Ländern finden sich aber starke kommunistische neben \nsozialistischen bzw. sozialdemokratischen Parteien, in anderen nicht\n§ Lipset/Rokkan-Erklärung: Wo die bürgerlichen Eliten repressiver auf die \nArbeiterbewegung reagiert haben, hat sich diese radikalisiert und \nkommunistischen Parteien den Weg bereitet \n\n\n",
+        "extractedPage": "Seite 30",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDie traditionellen Cleavages (4)\n§ Cleavages können zueinander in orthogonalem Verhältnis stehen \n(also unabhängig voneinander sein)\n§ Niederlande: Katholiken, Protestanten, links Antiklerikal \n(Sozialdemokraten), rechts Antiklerikal (Liberale)\n§ Sie können sich auch überlappen (parallel) und verstärken sich \nsomit gegenseitig\n§ Nordirland: Überlappung von Protestantismus und pro UK versus \nKatholizismus und Pro Irland (zusätzlich jedoch quer: Arbeit-Kapital)\n§ Österreich: Christdemokraten vertraten Kirche und Kapitaleigner, \nSozialisten/Sozialdemokraten Arbeiter und Antiklerikale\n§ Welche Situation auftritt, hängt von der Verteilung der sozialen \nMerkmale und Einstellungen ab sowie \nOrganisationsentscheidungen\n\n\n",
+        "extractedPage": "Seite 31",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDie „Freezing“ Hypothese\n§\nVieldiskutierte „Hypothese“ von Lipset und Rokkan: \n§ Parteiensysteme wurden in den 1920er Jahren „eingefroren“→ zwischen 1920 und \n1960 starke Stabilität\n§ in der Literatur stark übertrieben, bei Lipset und Rokkan eher \nBeobachtung/Spekulation, weniger Hypothese/Vorhersage\n§ zwei wichtige Gründe für „Einfrieren“:\n§ die vier beschriebenen Konflikte sind grundlegend\n§ nach der Einführung des allgemeinen (Männer-) Wahlrechts war Neustrukturierung der \nCleavage-Struktur schwieriger\n§\nAuseinandersetzung mit der Freezing-These hat u.a. zwei prominente \nDiskussionstränge erzeugt:\n§ (1) Realignment: Neustrukturierung der Cleavages und der Wählerbindungen?\n§ (2) Dealignment: Abkehr der Wähler von den (traditionellen) Parteien?\n\n\n",
+        "extractedPage": "Seite 32",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nRealignment-Hypothese (1)\n§ Realignment = Neustrukturierung traditioneller Cleavage-\nStrukturen\n§ teilweise auch spezifischer: Ersetzen der klassischen Links-Rechts-\nDimension durch andere Konfliktlinie\n§ Ronald Inglehart (1971): The Silent Revolution in Europe: \nIntergenerational Change in Post-Industrial Societies\n§ Wichtigste These: Materialismus-Postmaterialismus neue \nSpaltungslinie\n§ Soziale Basis ist die neue, akademische Mittelklasse\n§ Kollektive Identität basierend auf bestimmten Werten: Umwelt, \nFeminismus, Ausweitung demokratischer und sozialer Rechte\n\n\n",
+        "extractedPage": "Seite 33",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nRealignment-Hypothese (2)\n§ Neu: Postindustrielle Welt\n5.\nMaterialismus / Postmaterialismus (Ingelhart 1979) → Grüne Parteien\n§ These umstritten, zwei Gegenargumente\n§ Grüne Parteien sind relativ schwach geblieben\n§ Positionen grüner Parteien letztlich nicht so unterschiedlich zu anderen \nlinken Parteien\n§ Neue Konfliktlinie wurde weitgehend durch den Links-Rechts-Konflikt \nabsorbiert\n\n\n",
+        "extractedPage": "Seite 34",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nRealignment-Hypothese (3)\n§ Ähnliches gilt für die rechte Seite des politischen Spektrums\n§ Neue Rechtsparteien haben teilweise mitregiert (z.B. Österreich, Italien, \nNiederlande) oder Minderheitsregierungen unterstützt (Dänemark)\n§ Sind im Zuge dessen pragmatischer geworden\n§ Wichtig \n§ Man sieht Veränderungen innerhalb der rechten und der linken Seite des \npolitischen Spektrums\n§ Zwischen rechts und links weitgehende Stabilität\n§ Wichtiges Thema der Zukunft:\n§ Wie wird Haltung zur EU oder zur Migration nationale Parteiensysteme \nlangfristig restrukturieren ? \n§ Fazit: nur begrenztes Realignment\n\n\n",
+        "extractedPage": "Seite 35",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nRealignment-Hypothese (4)\n§ In der Rechts-Links-Dimension vermischen und aggregieren sich \nalso unterschiedliche Cleavages in unterschiedlichen Ländern\n§ Dies macht die Messung von Positionen und Konflikten über \nLänder hinweg schwierig\n\n\n",
+        "extractedPage": "Seite 36",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDealignment-Hypothese\n§ „Dealignment“ = Abkehr der Wähler von den traditionellen \nParteien durch Auflösung der Cleavages und den daraus \nhervorgegangenen sozialen Milieus\n§ Konkret sind damit die folgenden Phänomene gemeint:\n§ Abnehmende Identifikation der Wähler mit politischen Parteien\n§ Abnehmende Wahlbeteiligung\n§ Entstehen neuer Parteien und zunehmende Unterstützung für diese \n§ Zunehmende „elektorale Volatilität“, d.h. starke Schwankungen der \nStimmenanteile der Parteien von einer Wahl zur nächsten\n§ Konsens in der Literatur: es gibt klare Evidenz für Dealignment, \naber in begrenztem Umfang\n\n\n",
+        "extractedPage": "Seite 37",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nMichels ehernes Gesetz der Oligarchie\n§ Robert Michels, 1876-1936, deutsch-italienischer Soziologe, \nPolitiker Mitglied von PSI und SPD, später Syndikalist, Korporatist, \nfaschistischer Vordenker\n§ Ehernes Gesetz (Zur Soziologie des Parteienwesens in der \nmodernen Demokratie, 1911)\n§ Wesentliche Elemente\n§ Komplexe Organisationen erfordern Spezialisierung und Delegation\n§ Systematischer Informations- und Kompetenzvorsprung für Amtsinhaber\n§ Anreiz und Möglichkeit zur Herausbildung einer geschlossenen Führungsschicht \n(Oligarchie)\n§ Oligarchie verfolgt tendenziell ihre eigenen Interessen\n§ Kontrovers diskutiert, aber als Tendenzaussage plausibel\n\n\n",
+        "extractedPage": "Seite 44",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nUnterschiedliche Typen von Parteien\n§ Honoratiorenpartei: 19. Jhdt., Macht innerhalb sehr konzentriert, \nsehr Mitgliedschaft konzentriert, Ziel: Kontrolle von Privilegien\n§ Massenintegrationspartei (Sigmund Neumann): Ausweitung \nWahlrecht ab 1880, Macht relativ konzentriert, große und \nhomogene Mitgliedschaft, Ziel: Sozialreformation\n§ Catch all party (Otto Kirchheimer): Massenwahlrecht ab 1945, \nMacht weniger konzentriert, große und heterogene \nMitgliedschaft, Ziel: Soziale Gleichheit\n§ Cartel party (Richard Katz/Peter Mair): Massenwahlrecht ab 1970, \nMacht diffus, heterogene Mitgliedschaft Aufweichung für nicht-\nMitglieder, Ziel: \nProf. Dr. Christoph Hönnige\n\n",
+        "extractedPage": "Seite 45",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nElemente der Parteiorganisation\n§ Parteien werden als kollektive Akteure / als Organisationen \nbegriffen\n§ Wichtige Subgruppen innerhalb der Organisationen (Katz/Mair \n1995)\n§ 1.  Party central office (Parteiführung und Parteiapparat)\n§ 2.  Party in public office (Regierung)\n§ 3.  Party on the ground (Mitglieder, Aktivisten, Graswurzel)\n§ Divergierende Interessen und Motive von Parteiangestellten, \nHaupt- und nebenamtlichen Parteipolitikern, einfachen\\ \nParteimitgliedern/-aktivisten\n\n\n",
+        "extractedPage": "Seite 46",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nTypologie der Parteiensysteme von Sartori (1)\n§ Giovanni Sartori: Parties und Party Systems 1976\n§ Klassiker zu Parteiensystemen. Er entwickelt eine Typologie mit \nzwei Dimensionen: \n1. Anzahl der Parteien\n§ 2 Parteien \n§ 3 bis 5/6 Parteien (limited pluralism)\n§ 5/6 oder mehr Parteien (extreme pluralism)\n2. Ideologische Distanz zwischen den Parteien\n§ gering (moderate)\n§ groß (polarized) \n\n\n",
+        "extractedPage": "Seite 47",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nTypologie der Parteiensysteme von Sartori (2)\n§ Wichtig: die zwei Dimensionen werden nicht als völlig \nunabhängig voneinander gedacht\n§ Idee: „Format“ des Systems sollte dessen „Mechanik“ beeinflussen \n§ konkreter: Anzahl der Parteien sollte die ideologische Polarisierung \nbeeinflussen; das ist der Hauptgrund, warum die Anzahl für Sartori \nüberhaupt interessant ist\n§ Zweiparteiensystem à geringe Polarisierung\n§ sehr viele Parteien à große Polarisierung\n§ aber eine Einschränkung: \n§ hohe Anzahl von Parteien kann auch das Ergebnis einer „segmentierten“ \nGesellschaft sein\n§ in segmentierten Gesellschaften geht (nach Sartori) hohe Anzahl von Parteien \nnicht mit Polarisierung einher\n\n\n",
+        "extractedPage": "Seite 48",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nTypologie der Parteiensysteme von Sartori (3)\nnach: Sartori 1976: 292.\nFragmentierung des \nParteiensystems\nIdeologische Distanz \nzwischen den Parteien\nZentripetaler\nParteienwett-\nbewerb\nI. Zwei-\nparteien-\nkonkurrenz\nII. Gemäßigte\nMehrparteien-\nkonkurrenz\nII. Segmentierte\nMehrparteien-\nkonkurrenz\nIII. Polarisierte\nMehrparteien-\nkonkurrenz\nZentrifugaler\nParteien-\nwettbewerb\nGroß\nGering\nStark\nGering\n\n\n",
+        "extractedPage": "Seite 49",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nTypologie der Parteiensysteme von Sartori (4)\nErster Grundtyp: Zweiparteiensystem\n§ 2 relevante Parteien\n§ Mehr als zwei Parteien können existieren, aber einer der beiden \nwichtigsten Parteien gelingt es, eine Mehrheit zu gewinnen und \nallein zu regieren\n§ Parteien wechseln sich  in der Regierung ab\n§ Beispiele: Großbritannien, Neuseeland (bis zur Einführung des \nVerhältniswahlsystems), USA  (eingeschränkt bei in Phasen von \ndivided government!) \n\n\n",
+        "extractedPage": "Seite 50",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nTypologie der Parteiensysteme von Sartori (5)\nErster Grundtyp: Zweiparteiensystem\nUntertyp: Parteiensystem mit prädominanter Partei \n§ einer Partei gelingt es zumindest dreimal die Mehrheit zu \ngewinnen und/oder alleine zu regieren: \n§ Beispiele: Schweden 1957–1976, Großbritannien 1979–1997, \nÖsterreich 1970–1983, Japan vor den 1990ern\n§ dieser Typ von Sartori passt nicht so richtig in die eigentliche \nTypologie, streng genommen auch kein Untertyp, da auch in \nMehrparteiensystemen möglich\n\n\n",
+        "extractedPage": "Seite 51",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nTypologie der Parteiensysteme von Sartori (6)\nZweiter Grundtyp: Gemäßigter/segementierter Pluralismus\n§ zumeist nicht mehr als 3 bis 5 relevante Parteien \n§ keine hat absolute Mehrheit à Koalitionsregierungen, die \neinander ablösen\n§ bipolare Politik (zwei Blöcke) \n§ zentripetaler Parteienwettbewerb \n(à ideologische Mitte ß)\n§ Beispiele: \n§ Österreich 1945–1970, 1983ff; \n§ heute: sehr viele europäische Länder (z.B. Deutschland, Österreich, \nSkandinavien, Belgien, Niederlande, Italien, Frankreich)\n\n\n",
+        "extractedPage": "Seite 52",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nTypologie der Parteiensysteme von Sartori (7)\nDritter Grundtyp: Polarisierter Pluralismus \n§ zumeist mehr als 5 relevante Parteien\n§ Existenz von Anti-System-Parteien \n§ ein oder zwei Zentrumsparteien\n§ Opposition sowohl links als auch rechts; unverantwortliche \nOpposition: Politik des Überbietens; Zentrum ist zum Regieren \nverdammt, nützt sich in der Regierung ab \n§ Vorherrschaft der zentrifugalen (ß ideolog. Mitte à) über die \nzentripetalen (à ideolog. Mitte ß) Bewegungskräfte (starke \nStimmenverluste des Zentrums); hohe ideologische Aufladung\n§ Beispiele: Chile (vor 1973), Weimar Republik\n\n\n",
+        "extractedPage": "Seite 53",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDiskussion von Sartoris Typologie\n§ Verbreitete Auffassung: keine grundlegend neue oder bessere \nTypologie nach Sartori\n§ Bestehende Probleme (Mair 1997, 2002)\n§ Überfüllung der gemäßigten Mehrparteienkonkurrenz (moderate pluralism)\n§ Wenig klare Fälle von Zweiparteiensystemen\n§ Neuseeland: Wechsel zu Verhältniswahl und Mehrparteiensystem Anfang der \n90er Jahre\n§ Großbritannien zwischen 1979 und 1997 System mit prädominanter Partei \n§ ebenso nur noch wenige Beispiele von polarisiertem Pluralismus (polarized \npluralism) insbesondere wegen des Niedergangs kommunistischer Parteien \nWegfall von Anti-System-Parteien\n\n\n",
+        "extractedPage": "Seite 54",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nAlternatives Vorgehen zur Erfassung von \nParteiensystemen\n§ Empirische Messung der Zahl der Parteien mit dem Indikator \neffektiven Parteienzahl (Effective Number of Parties) ENP\n§ Laakso/Taagepera 1979\n§ Effektiv: Zahl und vor allem die Größe sind relevant für deren \nWettbewerbslogik\n§ Beispiel unterschiedlicher Typen mit zwei tatsächlichen Parteien. \nSystem 1 und 2\n§ System 1: Partei A: 50%, Partei B 50%\n§ System 2: Partei A: 10%, Partei B 90%\n\n\n",
+        "extractedPage": "Seite 56",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nWie wird die Anzahl der effektiven Parteien ermittelt?\nENP =\n1\nsi\n2\n∑\n\n\n§ Formel\n§ s = Sitzanteil\n§ i = Zahl der Parteien\n§ Beispiel: \n§\n2-Parteien: \n§\n80% Sitze\n§\n20% Sitze\nENP\n=\n1\n0,82 + 0,22\n=\n1\n0,64+ 0,04\n=\n1\n0,68\n=1,47\n!\n",
+        "extractedPage": "Seite 57",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nMessung von Präferenzen/Positionen (1)\n§ Interviews/Selbsteinstufung\n§ Experten (Wissenschaftler) oder Abgeordnete/Bürger werden befragt, wie \nsie ihre Partei (oder sich) auf einer oder mehreren Dimensionen \neinschätzen würden\n§ Nachteile: zeitliche Statik, starke Subjektivität\n§ Einordnung über Wahlprogramme\n§ Einordnung über Aussagen der Parteien in ihren Wahlprogrammen\n§ Aussagen oder Wörter werden bestimmten Kategorien zugeordnet und \nkönnen mittels verschiedener Verfahren einer oder mehreren Dimensionen \neinem Positionswert zugeordnet werden\n§ Nachteile: es handelt sich um geäußerte Präferenzen bzw. Signale an \nWähler\n\n\n",
+        "extractedPage": "Seite 61",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nMessung von Präferenzen/Positionen (2)\n§ Roll-call-Analysis\n§ Das frühere Abstimmungsverhalten der Abgeordneten wird dazu benutzt, \ndie Parteien auf einer oder mehreren Dimensionen einzuordnen\n§ Nachteile: Vermischung Präferenzen mit instituitinellen Regeln sowie \nZirkelschluss (da Abstimmungsverhalten meist auch abh. Variable)\n§ Vorsicht: es werden unterstellte (Experten), geäußerte \n(Wahlprogramme) Präferenzen bzw. Handlungen (bei Roll-Call) \ngemessen\n§ Mehr Informationen dazu in der \nSitzung 9\n\n",
+        "extractedPage": "Seite 62",
+        "extractedSession": "Sitzung zu Parteien",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nMessverfahren (1): Manifesto Daten MARPOR\n§ Datengrundlage: Wahlprogramme\n§ Perspektive: Über Zeit und Länder vergleichbar\n§ Konzeptionelle Idee: Parteien identifizieren in Wahlprogrammen \nihre Positionen, indem sie das was ihnen wichtig ist oft nennen \nund das was Wähler verschrecken könnte gar nicht\n§ Linkspartei: Ausbau Sozialstaat (aber nicht Steuererhöhung)\n§ FDP: Steuersenkung (aber nicht Reduktion Sozialstaat)\n§ Messung: Manuell durch Hilfskräfte/Kodierer\n§ Anhand von 54 items, die 1979 entwickelt wurden\n§ Der relative Textanteil eines items am Wahlprogramm wird gemessen\n§ Es lassen sich linke und rechte und Salienzitems identifizieren\n§ Positionsidentifikation über die RiLe Skala (Laver/Budge 1992)\n\n\n",
+        "extractedPage": "Seite 63",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nMessverfahren (2): Manifesto Daten Wordscore\n§ Datengrundlage: Wahlprogramme\n§ Perspektive: Über Zeit vergleichbar innerhalb einer Sprache\n§ Konzeptionelle Idee: Parteien identifizieren in Wahlprogrammen \nihre Positionen, indem sie das was ihnen wichtig ist oft nennen \nund das was Wähler verschrecken könnte gar nicht\n§ Linkspartei: Ausbau Sozialstaat (aber nicht Steuererhöhung)\n§ FDP: Steuersenkung (aber nicht Reduktion Sozialstaat)\n§ Messung: Automatisiert durch Statistikprogramm\n§ Referenztext wird ausgewählt, dessen politische Verortung klar ist\n§ Das Package Wordscore in Stata setzt weitere Wahlprogramme in Relation \nzum Referenztext\n§ Im Ergebnis findet sich eine Reihung von Texten, die als Links-Rechts \ninterpretiert werden kann\n\n\n",
+        "extractedPage": "Seite 64",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nCleavages, Wahl- und Parteiensysteme\n§ Cleavages, Wahlsysteme und Parteiensysteme sind nicht \nunabhängig voneinander\n§ Die bisherige Forschung deutet auf folgenden Zusammenhang\n§ Cleavages → Parteiensysteme\n§ Wahlsysteme →  Parteiensysteme\n§ Aber auch: Parteiensysteme → Wahlsysteme (da Parteien die Wahlsysteme \nmachen)\n\n\n",
+        "extractedPage": "Seite 66",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDuverger‘s Gesetz (1)\n§ Duverger, Maurice (1959) Political Parties: Their Organization and \nActivity in the Modern State. London: Methuen & Co.\n§ Wahlsysteme haben mechanische Effekte\n§ Sie übersetzen Stimmen bei der Wahl in Sitze im Parlament\n§ Disproportionale Systeme bevorzugen große und benachteiligen kleine \nParteien\n§ Wahlsysteme haben strategische Effekte\n§ Wähler und Eliten passen sich auf das Wahlsystem an\n§ Strategisches Wählen: In disproportionalen Systemen wählen Wähler ihre \nZweitpräferenz, wenn ihre Erstpräferenz vermutlich nicht erfolgreich ist\n§ Strategischer Parteieintritt: Politische Eliten treten dem Wettbewerb in \ndisproportionalen Systemen unter dem Label ihrer Zweitpräferenz bei, \nwenn ihre Erstpräferenz vermutlich nicht erfolgreich ist\n\n\n",
+        "extractedPage": "Seite 67",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDuverger‘s Gesetz (2)\n§ Duverger‘s Theorie: Die Größe des Parteiensystems wird \ndeterminiert durch die Nachfrage in Form gesellschaftlicher \nKonflikte und dem Wahlrecht, welches für die Übersetzung von \nStimmen in Sitzen sorgt (also die Übersetzung von \ngesellschaftlichen Konflikten in parlamentarische Konflikte)\n§ Duverger‘s Gesetz: Das relative Mehrheitswahlrecht begünstigt \nZweiparteiensysteme\n§ Duverger‘s Hypothese: Verhältniswahlrecht begünstigt \nMehrparteiensysteme\n\n\n",
+        "extractedPage": "Seite 69",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nUnterschiedliche Definitionen von Interessengruppen \nlegen unterschiedliche Schwerpunkt\n§ David Truman (1951): Interest groups refers to any group that, on \nbasis of one or more shared attitudes, makes certain claims upon \nother groups in society for the establishment, maintenance, or \nenhancement of forms of behavior that are implied by the shared \nattitudes\n§ Breite Definition der Partizipation von politischen Gruppen\n§ Graham Wilson (1990): organizations, separate from government \nthough often in close partnership, which attempt to influence \npublic policy\n§ Fokus auf den Einfluss auf öffentliche Entscheidungen\n\n\n",
+        "extractedPage": "Seite 74",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nTheorien zur Rolle der Verbände bei der Einflussnahme\nPluralismus\n§\nInteressengruppen sind innerhalb einer \nGesellschaft vorhanden\n§\nEs existiert eine vielfalt gleichberechtigt \nnebeneinander bestehender und \nmiteinander um Einfluss, Macht \nkonkurrierender Gruppen, \nOrganisationen, Institutionen\n§\nKeine staatliche Intervention\n§\nGruppen haben verschieden \nZugangspunkte im System und gleiche \nChancen\n§\nArthur Bentley 1908, David Truman \n1951\nKritik am Modell\n§\nPartizipationschancen variieren extrem \nin Abhängigkeit von \nRessourcenausstattung\n§\nDer Staat ist kein neutraler Akteur in \nder Realität\n§\nBestimmte Interessen lassen sich nur \nschwer organisieren (insider/outsider)\n§\nE.E. Schattschneider, Samuel Bacharach \n1980\n\n\n",
+        "extractedPage": "Seite 75",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nTheorien zur Rolle der Verbände bei der Einflussnahme\n(Neo-)Korporatismus\n§\nMit dem Begriff Neokorporatismus  wird \ndie Einbindung oder \"Inkorporierung\" \nvon organisierten Interessen in die \nPolitik und ihre Teilhabe an der \nFormulierung und Ausführung von \npolitischen Entscheidungen bezeichnet.\n§\nEntscheidungsprozesse sind oft \naußerparlamentarisch institutionalisiert \nVerhandlungen\n§\nStaat delegiert Aufgaben an begrenzte \nZahl an Interessengruppen (z.B. Löhne, \nGesundheit)\n§\nPhilippe Schmitter 1974\nKritik am Modell\n§\nBestimmte Interessen werden \nausgeschlossen und nicht \nberücksichtigt\n§\nTeilweise undemokratische \nEntscheidungsprozesse\n§\nAchtung: Differenz hinsichtlich\n§\nTop-down staatlicher Korporatismus bei \ndem Gruppenbildung vorgegeben ist \n(z.B. Zwangsgewerkschaft)\n§\nBottom-up Korporatismus bei der \ngesellschaftliche Gruppen ihre Probleme \nim staatlichen Rahmen lösen, aber die \nGruppenbildung frei ist\n\n\n",
+        "extractedPage": "Seite 76",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nInteressengruppenbildung: Logik des kollektiven \nHandelns und Probleme diffuser Interessen\n§ Es finden sich empirisch große Unterschiede in der \nOrganisationsfähigkeit von Interessen\n§ Umweltschutz\n§ Chemische Industrie\n§ Krebspatienten\n§ Tabakindustrie\n§ Nach Mancur Olsons Logik des kollektiven Handelns (1965)\n§ Konzentrierte Interesse unterscheiden sich von diffusen Interessen in der \nOrganisationsfähigkeit\n§ Kleine Gruppen können sich leichter organisieren als größere Gruppen\n§ Exklusive Interessen sind leichter organisierbar als kollektive Interessen\n§ CBDC (Concentrated Benefits – Deconcentrated Costs)\n\n\n",
+        "extractedPage": "Seite 77",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    },
+    {
+        "frage": "Frage",
+        "antworten": [
+            "antwort1",
+            "antwort2"
+        ],
+        "correctAnswers": [
+            0
+        ],
+        "extractedText": "\nDeterminanten des Einflusses von Interessengruppen\n§ Der Einfluss von Interessengruppen variiert in Abhängigkeit von:\n§ Internen Gruppeneigenschaften (Präferenzen Deckungsfähigkeit, \nGruppengröße, Spezifität dies Ziels, Ressourcen)\n§ Politischen Gelegenheitsstrukturen (Interessenüberlappung mit politischen \nEntscheidungsträgern und Zugangswegen ins System)\n§ Aber: Interessengruppen können sich den Zugangswegen anpassen\n\n\n",
+        "extractedPage": "Seite 78",
+        "extractedSession": "Sitzung 9",
+        "extractedPro": null,
+        "extractedLecture": "../03-FilteredData/Einführungsvorlesung Vergleichende Politikwissenschaft/Sitzung_9_Varia.pdf",
+        "ectractLectureName": "Sitzung_9_Varia.pdf"
+    }
+]

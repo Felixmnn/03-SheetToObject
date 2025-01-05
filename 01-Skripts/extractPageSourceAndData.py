@@ -53,7 +53,6 @@ class PDFSummarizer:
         return object
     #Auzugebender Text: { Text: text; Seite: seite; Sitzung: sitzung; Prof: prof}    
 
-    
     def insertJSONObject (self,json_path,json_object):
         try:
             with open (json_path, "r", encoding="utf-8") as json_file:
