@@ -46,7 +46,7 @@ class PDFSummarizer:
         text = text.replace(prof,"")
         text = text.replace(sitzung,"")
 
-        text = {f"Text: {text}; Seite: {seite}; Sitzung: {sitzung}; Prof: {prof}"}  
+        text = {f"TEXTSTART: {text} TEXTEND| Seite: {seite}| Sitzung: {sitzung}| Prof: {prof}"}  
         return text
     #Auzugebender Text: { Text: text; Seite: seite; Sitzung: sitzung; Prof: prof}    
 

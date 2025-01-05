@@ -11,34 +11,34 @@ from sendGPTSummaryRequest import createOpenAiRequest
 import os
 import re
 
-def checkIfProcessedDirExists(root):
-    if(os.path.isdir(f"../02-BasePDFs/{root}")):
-        if (os.path.isdir(f"../03-FilteredData/{root}")):
+def checkIfProcessedDirExists(target_directory,root,save_directory):
+    if(os.path.isdir(f"{target_directory}/{root}")):
+        if (os.path.isdir(f"{save_directory}/{root}")):
             print(f"Directory {root} exists")
         else:
             print(f"Directory {root} does not exist")
-            os.makedirs(f"../03-FilteredData/{root}")
+            os.makedirs(f"{save_directory}/{root}")
             print("Created new Directory")
     
 
-def checkIfFilteredPDFExists(file,currentDirectory):
-    if (os.path.isfile(f"../03-FilteredData/{currentDirectory}/{file}")):
+def checkIfFilteredPDFExists(file,currentDirectory,save_directory):
+    if (os.path.isfile(f"{save_directory}/{currentDirectory}/{file}")):
         print("File exists")
         return True
     return False
 
-def reduceAllPDFs(target_directory):
+def reduceAllPDFs(target_directory,save_directory):
     for root, dirs, files in os.walk(target_directory):
         if not dirs:
             currentDirectory = os.path.basename(root)
-            checkIfProcessedDirExists(currentDirectory)
+            checkIfProcessedDirExists(target_directory,currentDirectory,save_directory)
             for file in files:
-                if checkIfFilteredPDFExists(file,currentDirectory):
+                if checkIfFilteredPDFExists(file,currentDirectory,save_directory):
                     print(f"Die Datei {file} wurde bereits bearbeitet. Gehe zur nächsten Datei.")
                 else:
                     try:
                         #Methode Ruft PDF auf speichert dieses Datei in einem neuen Ordner
-                        PDFViewer(f"../02-BasePDFs/{currentDirectory}/{file}",f"../03-FilteredData/{currentDirectory}/{file}")
+                        PDFViewer(f"{target_directory}/{currentDirectory}/{file}",f"{save_directory}/{currentDirectory}/{file}")
                     except Exception as e:
                         print("Error",e)
                     else:
@@ -47,21 +47,18 @@ def reduceAllPDFs(target_directory):
 
 
 
-def transformAllPDFs(target_directory):
+def transformAllPDFs(target_directory,save_directory):
     for root, dirs, files in os.walk(target_directory):
         if not dirs:
             currentDirectory = os.path.basename(root)
             for file in files:
                 try:
-                    PDFSummarizer(f"{target_directory}/{currentDirectory}/{file}",f"../04-FolieToString/{currentDirectory}.txt")
+                    PDFSummarizer(f"{target_directory}/{currentDirectory}/{file}",f"{save_directory}/{currentDirectory}.txt")
                     
                 except Exception as e:
                     print("Error",e)
                 else:
                     print("Successfully moved the folder.")
-
-def zeileFormatieren(zeile):
-    pass   
 
 def trasformStringToQuestions(target_directory):
     for dateiname in os.listdir(target_directory):
@@ -76,7 +73,7 @@ def trasformStringToQuestions(target_directory):
                         if "BEARBEITET" not in zeile:
                             print("Übergebe Zeile")
                             original_zeile = zeile.strip()
-                            info_match = re.search(r"Text:\s*(.*?);", original_zeile)
+                            info_match = re.search(r"TEXTSTART:\s*(.*?)TEXTEND", original_zeile)
                             
                             if info_match:
                                 info = info_match.group(1)
@@ -105,12 +102,17 @@ def trasformStringToQuestions(target_directory):
     pass
 
 def main():
+    #Step 1 -> löschen der irrelevanten Folien
     #target_directory = "../02-BasePDFs"
-    #reduceAllPDFs(target_directory)
-    #target_directory = "../03-FilteredData"
-    #transformAllPDFs(target_directory)
-    target_directory = "../04-FolieToString"
-    trasformStringToQuestions(target_directory)
+    #save_directory = "../03-FilteredData"
+    #reduceAllPDFs(target_directory,save_directory)
+
+    #Step 2 -> extrahieren des Textes aus relevanten Folien
+    target_directory = "../03-FilteredData"
+    save_directory = "../04-FolieToString"
+    transformAllPDFs(target_directory,save_directory)
+    #target_directory = "../04-FolieToString"
+    #trasformStringToQuestions(target_directory)
 
     """
     original_pdf = "../02-BasePDFs/Einführungsvorlesung Das Politische System Deutschlands/Sitzung_4_Legislative.pdf"
