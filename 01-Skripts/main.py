@@ -53,14 +53,14 @@ def transformAllPDFs(target_directory,save_directory):
             currentDirectory = os.path.basename(root)
             for file in files:
                 try:
-                    PDFSummarizer(f"{target_directory}/{currentDirectory}/{file}",f"{save_directory}/{currentDirectory}.txt")
+                    PDFSummarizer(f"{target_directory}/{currentDirectory}/{file}",f"{save_directory}/{currentDirectory}.json",file)
                     
                 except Exception as e:
                     print("Error",e)
                 else:
                     print("Successfully moved the folder.")
 
-def trasformStringToQuestions(target_directory):
+def trasformStringToQuestions(target_directory,save_directory):
     for dateiname in os.listdir(target_directory):
         dateipfad = os.path.join(target_directory, dateiname)
         # Überprüfen, ob es sich um eine Datei handelt
@@ -72,6 +72,7 @@ def trasformStringToQuestions(target_directory):
                     for zeile in datei:
                         if "BEARBEITET" not in zeile:
                             print("Übergebe Zeile")
+                            ausgangs_zeile = zeile
                             original_zeile = zeile.strip()
                             info_match = re.search(r"TEXTSTART:\s*(.*?)TEXTEND", original_zeile)
                             
@@ -81,12 +82,12 @@ def trasformStringToQuestions(target_directory):
                                 questions = createOpenAiRequest(f"Erstelle 3 singlechoice und 3 multiplechoice antworten auf basis dieser Daten wenn es sinn ergibt{info}")  # Annahme: Funktion existiert
                                 print("Wieso kommt er hier nicht an?")
                                 # Neue Zeile erstellen
-                                neue_zeile = original_zeile.replace(info, questions).strip() + " BEARBEITET\n"
+                                neue_zeile = ausgangs_zeile.replace(info, questions).strip() + " BEARBEITET"
 
                                 # In Antwortendatei speichern
-                                antwort_dateipfad = os.path.join("../05-Antworten/", "antworten.txt")
+                                antwort_dateipfad = os.path.join(f"{save_directory}/", f"{dateiname}.txt")
                                 with open(antwort_dateipfad, "a", encoding="utf-8") as antwort_datei:
-                                    antwort_datei.write(f"{neue_zeile}\n")
+                                    antwort_datei.write({f"{neue_zeile}"})
 
                                 # Geänderte Zeile in die Datei schreiben
                                 datei.write(neue_zeile)
@@ -111,8 +112,10 @@ def main():
     target_directory = "../03-FilteredData"
     save_directory = "../04-FolieToString"
     transformAllPDFs(target_directory,save_directory)
+
     #target_directory = "../04-FolieToString"
-    #trasformStringToQuestions(target_directory)
+    #save_directory = "../05-Antworten"
+    #trasformStringToQuestions(target_directory,save_directory)
 
     """
     original_pdf = "../02-BasePDFs/Einführungsvorlesung Das Politische System Deutschlands/Sitzung_4_Legislative.pdf"

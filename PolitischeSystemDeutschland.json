@@ -1,0 +1,26 @@
+{
+    "questions": [
+        {
+            "question": "Welche der folgenden Ämter werden durch den Bundestag gewählt?",
+            "answers": [
+                "Bundeskanzler",
+                "Präsident des Bundesrechnungshofs",
+                "Hälfte der Bundesverfassungsrichter",
+                "Bundespräsident"
+            ],
+            "correctAnswers": [
+                0,
+                1,
+                2
+            ],
+            "themengebiet": "Legislative",
+            "vorlesung": "Einführungsvorlesung Das Politische System Deutschlands",
+            "offizielleKlausurfrage": false,
+            "erstellDatum": "02.01.2025",
+            "autor": "felix",
+            "prof": "name",
+            "quelleDokument": "Sitzung_4_Legislative",
+            "quelleDokumentSeite": 10
+        }
+    ]
+}
